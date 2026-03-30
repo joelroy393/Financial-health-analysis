@@ -13,8 +13,12 @@ def generate_data(num_rows=2000):
     1. Finance_Actuals_v2.csv (Daily transactions)
     2. Finance_Budget_v2.csv (Monthly targets)
     """
-    # Set your desired output folder here
-    output_dir = r'Power BI projects\xlsx&csv'
+    # --- DYNAMIC DIRECTORY FIX FOR GIT STRUCTURE ---
+    # Get the absolute path of the folder where THIS script is currently located (e.g., .../scripts/)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Go up one level (..) to the project root, then into the 'data' folder
+    output_dir = os.path.join(script_dir, '..', 'data')
     
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
