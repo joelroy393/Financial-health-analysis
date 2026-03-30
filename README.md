@@ -65,7 +65,7 @@ The next phase of this project involves **Data Pipeline Automation**:
 ## 🔗 How to Reproduce
 1. Clone this repository.
 2. Run `python scripts/datagenerator.py` to populate the `data/` folder.
-3. Open the `Finance_Dashboard.pbix` file.
+3. Open the `Budget Variance & Financial health Analysis.pbix` file.
 4. Hit **Refresh** to see the model ingest the generated data.
 
 **Connect with me on [LinkedIn]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/joelroy393/)) to discuss data analytics and BI!**
