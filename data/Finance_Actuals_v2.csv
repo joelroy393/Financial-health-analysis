@@ -1,0 +1,2001 @@
+Date,Category,Type,Amount,City,Province,Country,Latitude,Longitude,PaymentMode,TransactionID
+2026-01-15,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-334053
+2025-12-13,Groceries,Expense,298.86,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-719176
+2025-02-17,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-629903
+2025-04-12,Healthcare,Expense,289.25,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-331148
+2026-02-19,Tech,Expense,349.03,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-456778
+2026-01-26,Dining,Expense,141.27,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-201414
+2025-11-06,Transport,Expense,113.16,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-662275
+2025-02-10,Cybersecurity,Expense,225.3,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-705397
+2025-01-24,Groceries,Expense,267.89,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-996865
+2025-07-14,Groceries,Expense,118.41,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-488162
+2025-12-26,Tech,Expense,375.3,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-660086
+2025-08-25,Utilities,Expense,157.99,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-817870
+2025-04-28,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-520651
+2025-10-18,Dining,Expense,351.78,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-787277
+2025-03-15,Entertainment,Expense,113.3,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-883300
+2025-07-05,Cybersecurity,Expense,95.54,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-195325
+2025-03-20,Groceries,Expense,254.7,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-503457
+2025-09-28,Entertainment,Expense,108.05,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-813328
+2026-01-20,Healthcare,Expense,114.06,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-407757
+2025-01-02,Entertainment,Expense,381.99,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-632342
+2026-03-07,Investments,Income,259.19,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-260263
+2025-10-04,Utilities,Expense,381.86,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-728038
+2025-02-27,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-351083
+2025-02-13,Groceries,Expense,295.44,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-234628
+2025-03-26,Healthcare,Expense,113.37,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-322086
+2026-01-01,Freelance,Income,131.57,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-642717
+2025-04-26,Dining,Expense,34.97,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-717024
+2025-12-29,Groceries,Expense,256.13,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-132938
+2025-09-21,Salary,Income,2447.6,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-665427
+2025-05-05,Entertainment,Expense,316.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-198907
+2025-07-01,Cybersecurity,Expense,175.2,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-806073
+2025-02-01,Groceries,Expense,167.02,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-360735
+2025-08-18,Healthcare,Expense,64.67,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-585100
+2025-08-15,Groceries,Expense,325.13,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-153045
+2026-03-05,Healthcare,Expense,15.76,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-274389
+2025-04-20,Entertainment,Expense,347.21,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-497382
+2025-05-16,Cybersecurity,Expense,371.34,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-543555
+2025-12-05,Healthcare,Expense,290.18,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-411120
+2025-10-24,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-884309
+2025-10-27,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-159642
+2026-03-12,Salary,Income,2437.16,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-808011
+2025-03-03,Gift,Income,377.22,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-707040
+2025-08-03,Groceries,Expense,266.38,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-373432
+2025-05-03,Transport,Expense,113.59,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-579434
+2025-01-05,Groceries,Expense,188.73,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-176819
+2025-05-16,Healthcare,Expense,61.66,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-356150
+2025-08-13,Utilities,Expense,335.16,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-800305
+2025-12-06,Tech,Expense,50.4,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-221035
+2025-05-20,Freelance,Income,119.88,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-313487
+2025-09-16,Tech,Expense,200.53,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-765095
+2025-01-23,Tech,Expense,11.38,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-269430
+2025-12-28,Healthcare,Expense,176.8,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-178898
+2025-10-07,Freelance,Income,24.05,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-550664
+2025-07-06,Tech,Expense,360.6,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-320281
+2025-07-01,Groceries,Expense,314.25,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-348237
+2025-07-31,Freelance,Income,19.67,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-941204
+2025-05-17,Dining,Expense,72.09,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-140605
+2025-04-13,Freelance,Income,328.47,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-420015
+2025-04-25,Freelance,Income,19.23,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-444207
+2026-01-31,Groceries,Expense,118.86,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-812526
+2025-01-15,Investments,Income,54.98,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-708792
+2025-01-20,Investments,Income,52.28,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-863934
+2025-11-07,Cybersecurity,Expense,393.85,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-704596
+2025-12-29,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-645175
+2025-07-06,Freelance,Income,178.21,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-795612
+2025-09-17,Investments,Income,130.62,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-521947
+2025-03-07,Healthcare,Expense,84.82,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-745414
+2025-10-08,Cybersecurity,Expense,335.15,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-320392
+2025-08-27,Transport,Expense,182.3,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-932291
+2025-12-04,Freelance,Income,43.07,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-197923
+2025-12-11,Dining,Expense,131.06,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-125611
+2025-11-09,Entertainment,Expense,341.4,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-534572
+2026-01-03,Freelance,Income,281.58,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-355836
+2026-01-20,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-329471
+2025-08-26,Healthcare,Expense,29.59,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-578634
+2025-12-08,Entertainment,Expense,217.14,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-891937
+2026-03-02,Gift,Income,363.67,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-879779
+2025-05-13,Gift,Income,303.19,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-757193
+2025-02-09,Entertainment,Expense,288.28,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-452161
+2025-02-11,Healthcare,Expense,63.97,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-827659
+2025-02-02,Dining,Expense,171.8,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-535970
+2025-07-19,Cybersecurity,Expense,362.89,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-998348
+2025-09-02,Gift,Income,12.3,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-890075
+2025-10-03,Cybersecurity,Expense,301.53,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-611945
+2025-09-06,Cybersecurity,Expense,21.32,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-859359
+2025-03-07,Entertainment,Expense,392.48,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-513160
+2025-02-12,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-584125
+2025-07-14,Tech,Expense,137.67,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-453894
+2025-05-23,Cybersecurity,Expense,303.28,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-975467
+2026-01-19,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-466960
+2026-02-04,Groceries,Expense,383.34,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-359295
+2025-11-15,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-232352
+2025-10-16,Groceries,Expense,379.63,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-904150
+2026-02-03,Groceries,Expense,329.53,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-706794
+2025-10-22,Tech,Expense,274.17,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-849747
+2025-02-22,Dining,Expense,281.91,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-934904
+2025-06-27,Salary,Income,2506.55,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-630538
+2026-03-11,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-210665
+2025-11-22,Transport,Expense,357.71,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-556641
+2025-11-30,Healthcare,Expense,115.33,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-587455
+2025-06-15,Tech,Expense,342.17,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-572700
+2025-10-19,Entertainment,Expense,248.03,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-130094
+2025-04-04,Transport,Expense,200.14,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-456871
+2025-10-12,Tech,Expense,13.96,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-353080
+2025-10-12,Entertainment,Expense,305.68,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-569945
+2025-05-31,Groceries,Expense,96.42,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-796212
+2025-10-11,Entertainment,Expense,217.06,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-468900
+2025-06-06,Tech,Expense,108.05,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-430876
+2026-01-26,Healthcare,Expense,279.16,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-874483
+2025-11-02,Healthcare,Expense,120.37,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-410636
+2025-06-04,Utilities,Expense,15.52,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-387636
+2025-10-11,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-768854
+2025-02-22,Gift,Income,350.36,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-592198
+2025-04-05,Transport,Expense,386.54,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-219629
+2025-09-09,Gift,Income,38.89,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-256445
+2025-02-13,Tech,Expense,397.63,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-735770
+2026-02-02,Dining,Expense,213.8,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-411797
+2025-06-06,Gift,Income,231.77,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-899787
+2025-05-16,Dining,Expense,267.57,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-282256
+2025-01-02,Utilities,Expense,169.32,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-405407
+2025-12-28,Tech,Expense,120.26,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-820775
+2026-02-08,Tech,Expense,318.59,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-545790
+2025-11-28,Dining,Expense,68.11,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-174878
+2025-11-01,Tech,Expense,302.09,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-560485
+2025-12-25,Tech,Expense,166.98,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-559023
+2025-08-10,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-127121
+2026-01-27,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-900177
+2025-09-23,Entertainment,Expense,264.09,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-713762
+2025-02-16,Entertainment,Expense,193.3,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-436653
+2025-06-18,Utilities,Expense,170.54,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-794769
+2025-08-21,Salary,Income,2417.61,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-221552
+2026-03-19,Gift,Income,210.69,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-533321
+2025-07-05,Healthcare,Expense,252.83,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-896907
+2025-10-09,Tech,Expense,61.1,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-832168
+2025-11-19,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-844261
+2025-01-08,Healthcare,Expense,225.38,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-982277
+2025-03-02,Gift,Income,262.61,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-851413
+2025-08-01,Tech,Expense,335.54,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-578975
+2025-04-08,Cybersecurity,Expense,369.53,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-173201
+2025-06-24,Cybersecurity,Expense,374.36,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-960408
+2026-03-05,Tech,Expense,238.91,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-568238
+2025-06-20,Transport,Expense,225.25,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-577463
+2025-12-24,Freelance,Income,103.13,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-997594
+2025-06-12,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-504832
+2025-09-11,Freelance,Income,386.28,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-205239
+2025-02-21,Gift,Income,215.12,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-857537
+2025-02-08,Utilities,Expense,193.1,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-753534
+2026-03-13,Groceries,Expense,138.14,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-432043
+2026-03-23,Entertainment,Expense,221.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-346174
+2025-04-27,Tech,Expense,301.24,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-897305
+2025-08-16,Groceries,Expense,74.88,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-148225
+2025-05-31,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-551607
+2025-07-30,Healthcare,Expense,230.71,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-283573
+2025-11-14,Cybersecurity,Expense,276.42,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-343467
+2025-08-24,Tech,Expense,109.58,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-401603
+2025-02-07,Utilities,Expense,182.27,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-769975
+2025-08-22,Investments,Income,339.67,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-994787
+2025-07-15,Dining,Expense,233.05,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-833247
+2025-05-21,Cybersecurity,Expense,13.16,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-973294
+2026-02-02,Investments,Income,321.56,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-329642
+2025-12-14,Tech,Expense,304.68,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-757937
+2026-02-08,Tech,Expense,181.92,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-867934
+2025-06-17,Tech,Expense,301.52,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-238579
+2025-09-29,Transport,Expense,205.7,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-369452
+2026-02-17,Gift,Income,125.11,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-591081
+2026-01-22,Freelance,Income,386.94,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-194689
+2025-05-16,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-576877
+2025-10-27,Tech,Expense,158.6,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-807617
+2025-11-14,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-739717
+2025-11-22,Groceries,Expense,331.3,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-222343
+2025-06-05,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-201913
+2025-03-11,Healthcare,Expense,161.57,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-715870
+2025-08-01,Utilities,Expense,265.42,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-393328
+2025-04-22,Transport,Expense,182.92,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-204180
+2025-10-06,Investments,Income,361.66,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-517479
+2026-03-11,Groceries,Expense,331.43,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-772875
+2025-01-26,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-232040
+2025-02-05,Dining,Expense,333.63,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-714867
+2025-06-18,Dining,Expense,312.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-390743
+2025-03-08,Freelance,Income,220.68,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-793169
+2025-01-08,Freelance,Income,149.71,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-116547
+2025-03-06,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-881886
+2026-02-03,Entertainment,Expense,151.2,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-573962
+2026-01-08,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-580292
+2025-02-01,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-546980
+2025-12-31,Entertainment,Expense,364.78,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-437758
+2025-03-06,Groceries,Expense,117.26,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-499407
+2025-08-21,Investments,Income,207.16,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-931621
+2026-01-05,Healthcare,Expense,347.54,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-339592
+2025-07-24,Entertainment,Expense,172.24,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-547494
+2025-07-11,Tech,Expense,381.9,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-195656
+2025-08-10,Salary,Income,2419.31,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-683397
+2025-10-15,Healthcare,Expense,138.56,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-470774
+2026-03-21,Gift,Income,367.18,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-729575
+2025-10-23,Groceries,Expense,207.89,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-335137
+2026-03-09,Investments,Income,226.94,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-701987
+2026-03-09,Cybersecurity,Expense,228.78,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-738577
+2025-01-15,Investments,Income,80.36,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-468074
+2025-10-17,Utilities,Expense,266.36,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-876962
+2025-02-16,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-494468
+2025-03-22,Transport,Expense,154.32,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-155164
+2025-12-12,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-564637
+2025-11-07,Entertainment,Expense,182.4,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-891615
+2025-08-09,Transport,Expense,53.25,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-652530
+2025-04-23,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-108060
+2026-01-28,Dining,Expense,63.52,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-444061
+2026-01-18,Entertainment,Expense,177.96,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-658453
+2025-10-14,Healthcare,Expense,335.01,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-516359
+2025-08-12,Salary,Income,2403.75,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-703727
+2025-12-30,Cybersecurity,Expense,259.66,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-524707
+2025-03-29,Transport,Expense,322.52,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-972442
+2025-02-15,Transport,Expense,180.32,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-556839
+2025-02-10,Healthcare,Expense,164.35,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-332335
+2025-02-09,Utilities,Expense,209.09,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-913934
+2025-05-01,Utilities,Expense,50.09,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-281926
+2025-04-01,Groceries,Expense,381.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-891093
+2025-12-15,Entertainment,Expense,370.42,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-757685
+2025-02-04,Entertainment,Expense,192.88,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-720148
+2025-02-07,Healthcare,Expense,131.06,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-159653
+2025-02-09,Tech,Expense,261.42,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-585188
+2025-08-19,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-437145
+2025-03-19,Healthcare,Expense,383.51,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-950360
+2026-01-01,Investments,Income,42.89,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-359778
+2025-09-26,Entertainment,Expense,213.87,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-490963
+2025-07-29,Gift,Income,312.04,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-927564
+2025-02-03,Transport,Expense,138.58,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-397949
+2025-06-20,Utilities,Expense,41.79,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-425301
+2025-03-08,Gift,Income,242.07,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-686072
+2026-02-21,Transport,Expense,59.84,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-777406
+2025-07-05,Healthcare,Expense,17.11,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-324597
+2025-04-09,Entertainment,Expense,98.35,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-180913
+2025-09-17,Groceries,Expense,310.64,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-794083
+2025-11-02,Utilities,Expense,156.92,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-971728
+2026-01-05,Utilities,Expense,180.69,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-809217
+2025-11-09,Entertainment,Expense,121.12,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-659951
+2026-03-04,Entertainment,Expense,85.67,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-584106
+2025-09-15,Cybersecurity,Expense,215.71,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-940181
+2025-01-27,Tech,Expense,260.06,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-845957
+2025-05-26,Salary,Income,2416.78,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-571145
+2026-03-02,Freelance,Income,180.61,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-466566
+2025-01-28,Gift,Income,164.62,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-504924
+2025-04-25,Investments,Income,20.99,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-929822
+2025-05-27,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-895702
+2025-11-12,Entertainment,Expense,12.05,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-368355
+2025-10-08,Utilities,Expense,376.69,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-216587
+2025-06-04,Dining,Expense,57.52,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-769989
+2025-02-02,Entertainment,Expense,53.23,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-762652
+2026-01-03,Dining,Expense,65.99,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-744674
+2025-04-06,Cybersecurity,Expense,269.1,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-170966
+2025-07-19,Salary,Income,2574.67,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-491435
+2025-07-02,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-352838
+2026-01-31,Groceries,Expense,236.94,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-146489
+2026-02-21,Transport,Expense,260.69,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-762423
+2025-02-02,Utilities,Expense,289.26,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-407696
+2025-01-22,Dining,Expense,133.08,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-955015
+2025-01-19,Tech,Expense,303.78,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-474314
+2026-03-20,Salary,Income,2531.15,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-938171
+2026-01-16,Cybersecurity,Expense,181.5,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-295892
+2025-07-08,Entertainment,Expense,370.48,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-940064
+2025-02-10,Cybersecurity,Expense,177.94,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-436814
+2025-12-05,Transport,Expense,125.3,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-274739
+2025-08-17,Transport,Expense,26.52,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-387892
+2025-02-08,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-638009
+2025-01-16,Utilities,Expense,65.68,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-136489
+2026-02-03,Dining,Expense,261.61,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-694799
+2025-12-14,Utilities,Expense,185.47,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-565504
+2025-09-29,Utilities,Expense,153.11,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-361736
+2026-01-12,Salary,Income,2437.21,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-688956
+2025-12-27,Tech,Expense,184.05,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-827691
+2025-04-13,Gift,Income,57.83,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-281043
+2025-02-14,Gift,Income,326.1,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-844007
+2025-05-29,Healthcare,Expense,357.62,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-932250
+2025-03-04,Dining,Expense,394.2,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-928766
+2025-10-11,Transport,Expense,233.19,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-741674
+2025-06-08,Salary,Income,2479.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-906527
+2025-03-06,Groceries,Expense,389.23,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-588461
+2025-03-07,Transport,Expense,352.4,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-905077
+2025-09-15,Gift,Income,365.18,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-643269
+2025-03-24,Utilities,Expense,135.84,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-644103
+2025-05-09,Salary,Income,2439.26,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-231250
+2025-02-17,Healthcare,Expense,206.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-279516
+2026-03-08,Transport,Expense,370.33,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-185168
+2025-11-30,Tech,Expense,92.22,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-748133
+2025-11-18,Entertainment,Expense,222.78,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-356773
+2025-06-02,Cybersecurity,Expense,186.88,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-560959
+2025-04-15,Entertainment,Expense,142.68,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-853258
+2025-07-24,Transport,Expense,61.0,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-434617
+2025-05-17,Groceries,Expense,185.34,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-153063
+2026-03-19,Cybersecurity,Expense,250.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-952993
+2025-04-08,Transport,Expense,307.62,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-622987
+2025-01-12,Gift,Income,45.12,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-352422
+2025-01-25,Transport,Expense,29.71,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-399628
+2025-08-09,Groceries,Expense,62.23,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-900961
+2025-07-25,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-480133
+2025-07-17,Groceries,Expense,206.66,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-965401
+2025-03-07,Salary,Income,2595.02,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-933510
+2026-01-22,Investments,Income,66.26,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-624369
+2025-03-12,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-644559
+2025-03-13,Healthcare,Expense,137.91,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-270395
+2025-10-31,Tech,Expense,141.19,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-843167
+2026-02-22,Entertainment,Expense,16.49,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-536774
+2025-11-02,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-787436
+2026-01-05,Dining,Expense,30.03,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-649697
+2025-03-17,Cybersecurity,Expense,330.45,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-700383
+2025-04-08,Salary,Income,2403.79,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-258787
+2025-07-30,Dining,Expense,205.71,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-989587
+2025-12-28,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-688132
+2025-09-27,Entertainment,Expense,156.96,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-659024
+2025-12-13,Transport,Expense,311.08,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-301603
+2025-10-13,Investments,Income,126.41,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-839142
+2025-06-12,Entertainment,Expense,197.12,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-401769
+2025-07-14,Healthcare,Expense,359.35,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-910616
+2025-01-22,Tech,Expense,122.18,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-563864
+2025-04-20,Entertainment,Expense,88.81,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-689318
+2025-02-25,Utilities,Expense,250.11,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-354235
+2025-04-26,Healthcare,Expense,258.8,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-533377
+2025-02-21,Entertainment,Expense,275.66,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-677086
+2025-07-28,Freelance,Income,264.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-782139
+2025-06-14,Tech,Expense,121.31,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-783984
+2026-01-14,Healthcare,Expense,292.02,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-538184
+2025-01-19,Freelance,Income,398.9,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-295361
+2026-03-25,Investments,Income,24.61,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-451317
+2025-09-26,Healthcare,Expense,202.63,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-386090
+2025-06-19,Groceries,Expense,73.37,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-853504
+2026-02-09,Transport,Expense,125.06,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-740632
+2026-02-28,Gift,Income,176.8,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-520304
+2025-03-13,Utilities,Expense,196.21,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-373453
+2026-01-21,Entertainment,Expense,114.13,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-710754
+2025-05-14,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-165142
+2025-06-07,Entertainment,Expense,72.29,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-823821
+2025-07-08,Tech,Expense,249.7,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-601410
+2025-08-01,Transport,Expense,283.76,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-898867
+2025-09-27,Groceries,Expense,184.23,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-691573
+2025-09-16,Healthcare,Expense,88.84,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-272529
+2025-08-15,Healthcare,Expense,55.33,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-195359
+2026-02-19,Gift,Income,31.7,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-578987
+2025-08-25,Healthcare,Expense,272.38,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-515182
+2026-01-17,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-147489
+2025-10-05,Groceries,Expense,397.71,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-133276
+2026-01-29,Utilities,Expense,62.82,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-501058
+2025-07-12,Cybersecurity,Expense,41.3,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-785280
+2025-04-02,Salary,Income,2598.57,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-863214
+2026-01-23,Salary,Income,2404.55,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-806215
+2025-09-30,Cybersecurity,Expense,157.92,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-583000
+2025-04-07,Tech,Expense,375.59,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-948799
+2025-05-04,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-205797
+2025-11-03,Entertainment,Expense,272.09,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-876513
+2025-04-30,Entertainment,Expense,220.51,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-628373
+2026-02-22,Freelance,Income,367.39,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-705526
+2025-05-02,Transport,Expense,127.69,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-533649
+2025-10-13,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-756401
+2025-09-11,Healthcare,Expense,28.28,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-923975
+2025-07-29,Cybersecurity,Expense,68.19,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-891062
+2026-03-11,Dining,Expense,97.88,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-160423
+2025-10-13,Cybersecurity,Expense,216.7,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-367382
+2025-08-19,Groceries,Expense,340.38,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-154040
+2026-03-24,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-943737
+2025-04-22,Healthcare,Expense,196.96,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-116078
+2026-01-15,Dining,Expense,55.75,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-829417
+2025-07-23,Dining,Expense,366.9,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-913185
+2025-10-01,Entertainment,Expense,263.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-477114
+2025-08-27,Entertainment,Expense,48.46,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-312994
+2025-01-24,Cybersecurity,Expense,229.38,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-117007
+2025-06-01,Cybersecurity,Expense,69.44,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-498290
+2025-09-13,Dining,Expense,224.75,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-900441
+2025-08-24,Gift,Income,75.61,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-246757
+2025-04-05,Entertainment,Expense,367.59,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-649395
+2026-02-23,Groceries,Expense,270.6,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-244170
+2025-02-04,Freelance,Income,285.8,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-630299
+2025-11-13,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-791309
+2025-09-30,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-112426
+2025-10-02,Tech,Expense,391.22,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-945328
+2025-02-24,Freelance,Income,368.04,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-352674
+2025-05-10,Healthcare,Expense,327.93,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-182857
+2025-08-24,Cybersecurity,Expense,230.35,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-817269
+2025-12-01,Salary,Income,2598.33,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-524965
+2025-09-01,Healthcare,Expense,31.88,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-186702
+2025-11-27,Cybersecurity,Expense,315.91,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-653815
+2025-04-19,Freelance,Income,361.5,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-384263
+2025-12-17,Groceries,Expense,370.98,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-288066
+2025-01-09,Investments,Income,384.97,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-888795
+2025-02-09,Gift,Income,126.72,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-694223
+2025-12-13,Gift,Income,359.65,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-892313
+2025-09-14,Groceries,Expense,300.73,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-202430
+2025-06-24,Groceries,Expense,246.02,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-911131
+2026-02-06,Tech,Expense,397.11,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-473095
+2025-08-10,Cybersecurity,Expense,82.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-189856
+2026-02-13,Tech,Expense,106.12,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-380989
+2026-01-14,Utilities,Expense,161.95,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-195966
+2025-08-16,Tech,Expense,150.37,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-238943
+2025-08-18,Cybersecurity,Expense,227.22,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-208310
+2025-10-11,Transport,Expense,46.3,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-503951
+2025-07-18,Cybersecurity,Expense,313.88,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-699743
+2025-03-28,Cybersecurity,Expense,64.15,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-617077
+2025-08-11,Utilities,Expense,117.63,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-920685
+2025-05-07,Tech,Expense,291.15,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-580102
+2025-01-04,Tech,Expense,380.04,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-943135
+2025-06-21,Gift,Income,177.94,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-415029
+2025-09-03,Dining,Expense,132.53,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-405605
+2025-10-22,Entertainment,Expense,314.97,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-393916
+2025-07-06,Cybersecurity,Expense,54.42,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-720995
+2025-12-16,Freelance,Income,309.37,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-842776
+2026-03-02,Tech,Expense,280.21,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-245939
+2025-05-10,Dining,Expense,266.88,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-177558
+2025-10-26,Entertainment,Expense,166.31,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-670053
+2025-12-26,Transport,Expense,359.25,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-214682
+2025-03-27,Transport,Expense,262.33,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-889245
+2025-02-24,Cybersecurity,Expense,14.11,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-635482
+2025-10-25,Healthcare,Expense,278.19,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-492292
+2025-03-19,Healthcare,Expense,144.54,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-209627
+2025-03-01,Groceries,Expense,334.21,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-427040
+2025-09-24,Dining,Expense,198.34,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-559450
+2025-06-13,Entertainment,Expense,36.2,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-123682
+2025-12-13,Salary,Income,2560.01,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-678719
+2025-08-07,Healthcare,Expense,383.8,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-760351
+2025-07-22,Cybersecurity,Expense,21.38,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-571413
+2025-01-03,Cybersecurity,Expense,284.85,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-888870
+2025-10-23,Groceries,Expense,49.68,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-483561
+2025-02-28,Entertainment,Expense,112.32,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-725969
+2025-10-28,Cybersecurity,Expense,54.55,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-747351
+2025-11-11,Tech,Expense,240.17,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-223586
+2025-04-04,Groceries,Expense,155.59,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-538555
+2025-08-05,Cybersecurity,Expense,82.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-681868
+2025-03-13,Tech,Expense,82.97,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-476479
+2025-03-11,Gift,Income,86.1,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-529008
+2025-12-30,Cybersecurity,Expense,337.56,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-186686
+2025-05-30,Dining,Expense,22.75,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-276379
+2025-10-09,Entertainment,Expense,209.21,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-380901
+2025-10-05,Transport,Expense,330.82,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-672892
+2025-02-22,Cybersecurity,Expense,297.04,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-133796
+2026-03-18,Transport,Expense,328.52,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-913308
+2026-02-20,Dining,Expense,297.67,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-274044
+2026-02-21,Dining,Expense,90.71,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-658136
+2025-03-28,Healthcare,Expense,136.22,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-700556
+2025-12-14,Healthcare,Expense,327.92,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-162165
+2025-12-26,Freelance,Income,347.77,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-845951
+2026-01-25,Dining,Expense,338.99,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-249077
+2025-11-18,Tech,Expense,171.55,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-764406
+2025-07-26,Groceries,Expense,211.09,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-576782
+2025-10-25,Investments,Income,10.96,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-765678
+2026-03-12,Transport,Expense,34.7,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-328411
+2025-09-11,Freelance,Income,114.73,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-673896
+2026-02-08,Entertainment,Expense,144.06,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-204411
+2025-01-09,Entertainment,Expense,58.45,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-578693
+2025-04-14,Cybersecurity,Expense,398.32,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-266699
+2025-02-17,Investments,Income,265.29,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-489906
+2025-01-27,Utilities,Expense,164.57,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-550081
+2025-01-01,Groceries,Expense,93.23,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-722518
+2025-01-05,Entertainment,Expense,13.14,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-542828
+2025-02-06,Entertainment,Expense,99.29,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-208214
+2025-03-12,Tech,Expense,159.26,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-171734
+2025-11-09,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-468247
+2025-07-30,Utilities,Expense,250.27,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-190898
+2026-01-21,Freelance,Income,58.03,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-550246
+2025-05-07,Utilities,Expense,118.02,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-680278
+2026-02-03,Tech,Expense,377.1,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-315425
+2025-04-07,Healthcare,Expense,301.66,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-921875
+2025-09-11,Freelance,Income,160.5,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-769077
+2025-01-07,Healthcare,Expense,394.88,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-505629
+2025-07-07,Gift,Income,223.08,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-907788
+2025-01-08,Groceries,Expense,112.25,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-927630
+2025-11-18,Tech,Expense,287.93,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-835901
+2025-10-03,Healthcare,Expense,250.26,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-424960
+2026-02-18,Dining,Expense,70.6,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-714923
+2025-06-08,Groceries,Expense,282.48,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-356355
+2025-03-01,Cybersecurity,Expense,186.82,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-424314
+2025-03-03,Utilities,Expense,14.94,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-271790
+2025-09-25,Transport,Expense,211.72,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-489933
+2026-01-11,Tech,Expense,355.7,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-946313
+2025-02-02,Healthcare,Expense,112.55,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-620248
+2025-01-29,Transport,Expense,204.85,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-485548
+2025-10-21,Groceries,Expense,272.91,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-876764
+2026-03-16,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-148215
+2025-03-18,Cybersecurity,Expense,79.79,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-335421
+2026-01-04,Cybersecurity,Expense,134.77,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-225200
+2025-04-02,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-520400
+2026-03-20,Entertainment,Expense,120.1,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-190581
+2025-07-08,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-691194
+2025-08-26,Dining,Expense,153.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-868043
+2025-03-19,Freelance,Income,12.49,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-344315
+2025-06-21,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-990247
+2025-02-23,Tech,Expense,90.03,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-615929
+2025-12-31,Freelance,Income,119.13,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-986575
+2025-08-23,Transport,Expense,390.08,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-629979
+2025-02-08,Cybersecurity,Expense,240.84,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-794622
+2025-05-30,Freelance,Income,111.79,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-834764
+2025-06-12,Investments,Income,186.58,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-312559
+2025-03-21,Groceries,Expense,51.21,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-429287
+2025-07-03,Healthcare,Expense,386.21,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-423284
+2025-02-16,Groceries,Expense,71.47,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-325465
+2025-03-17,Investments,Income,45.57,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-515492
+2025-05-14,Tech,Expense,329.83,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-524035
+2025-02-18,Freelance,Income,190.2,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-112537
+2025-03-08,Dining,Expense,87.27,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-819622
+2025-10-26,Groceries,Expense,238.59,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-167603
+2026-02-19,Entertainment,Expense,60.23,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-144770
+2025-03-28,Salary,Income,2584.83,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-620226
+2025-03-30,Cybersecurity,Expense,148.04,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-393448
+2025-01-18,Utilities,Expense,249.5,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-778720
+2025-10-09,Cybersecurity,Expense,196.82,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-501620
+2025-11-26,Dining,Expense,355.01,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-761393
+2025-07-15,Salary,Income,2556.38,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-670968
+2025-10-17,Transport,Expense,205.93,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-288550
+2025-01-16,Dining,Expense,359.35,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-947935
+2026-01-28,Investments,Income,237.76,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-204998
+2025-05-17,Dining,Expense,218.14,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-703656
+2025-07-01,Gift,Income,374.73,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-348041
+2025-10-30,Transport,Expense,21.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-690462
+2025-10-05,Gift,Income,130.53,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-194641
+2025-01-11,Dining,Expense,215.31,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-743966
+2025-06-24,Utilities,Expense,289.61,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-122977
+2026-02-01,Utilities,Expense,53.26,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-176054
+2025-10-28,Cybersecurity,Expense,49.4,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-243079
+2026-02-10,Gift,Income,259.31,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-282664
+2025-12-22,Healthcare,Expense,356.94,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-334081
+2025-07-13,Utilities,Expense,129.66,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-286340
+2026-03-12,Cybersecurity,Expense,397.77,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-290926
+2025-11-24,Dining,Expense,230.56,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-447255
+2025-06-27,Dining,Expense,393.13,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-961574
+2025-08-17,Transport,Expense,14.44,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-826847
+2026-02-07,Tech,Expense,52.13,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-504684
+2025-03-27,Cybersecurity,Expense,354.98,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-468292
+2026-03-01,Groceries,Expense,197.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-270557
+2025-05-31,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-373812
+2025-06-25,Salary,Income,2434.02,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-867541
+2025-06-23,Groceries,Expense,241.67,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-838726
+2025-11-07,Utilities,Expense,357.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-206176
+2025-07-29,Dining,Expense,281.91,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-792687
+2025-02-19,Dining,Expense,29.36,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-261050
+2025-08-07,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-963918
+2025-04-13,Entertainment,Expense,47.82,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-769191
+2025-08-31,Groceries,Expense,339.07,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-593821
+2025-02-16,Tech,Expense,260.33,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-489043
+2025-04-06,Investments,Income,183.85,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-587648
+2025-10-16,Tech,Expense,34.04,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-800596
+2025-07-31,Healthcare,Expense,388.58,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-680493
+2026-02-24,Cybersecurity,Expense,213.81,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-700534
+2025-06-03,Gift,Income,40.79,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-226124
+2025-03-30,Gift,Income,380.13,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-947732
+2025-08-05,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-311727
+2026-03-04,Freelance,Income,242.07,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-191254
+2025-10-10,Cybersecurity,Expense,137.19,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-112964
+2026-02-05,Healthcare,Expense,173.64,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-255398
+2025-02-24,Groceries,Expense,229.45,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-661652
+2025-05-16,Gift,Income,159.39,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-139285
+2025-03-15,Cybersecurity,Expense,251.12,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-515018
+2025-12-20,Investments,Income,102.66,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-490532
+2025-06-09,Tech,Expense,119.34,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-339030
+2026-02-01,Entertainment,Expense,332.07,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-734366
+2025-08-15,Dining,Expense,92.44,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-896386
+2026-02-25,Transport,Expense,31.92,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-426236
+2025-03-11,Cybersecurity,Expense,314.4,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-282176
+2026-03-05,Dining,Expense,32.47,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-153015
+2025-05-21,Freelance,Income,153.66,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-766275
+2025-05-04,Salary,Income,2474.49,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-286209
+2025-10-28,Gift,Income,225.02,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-978343
+2025-05-26,Salary,Income,2405.49,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-995296
+2026-03-15,Dining,Expense,96.33,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-382154
+2025-01-11,Healthcare,Expense,347.21,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-238741
+2025-04-25,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-847362
+2025-08-05,Investments,Income,359.24,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-364239
+2025-12-13,Tech,Expense,213.05,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-712879
+2025-12-06,Healthcare,Expense,386.93,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-412974
+2025-02-02,Entertainment,Expense,141.15,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-390334
+2025-04-07,Tech,Expense,68.47,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-944554
+2025-12-05,Gift,Income,134.64,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-787237
+2025-05-13,Tech,Expense,363.7,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-872519
+2025-06-25,Dining,Expense,293.35,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-804505
+2026-03-09,Tech,Expense,76.29,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-408054
+2026-01-15,Utilities,Expense,110.87,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-812730
+2025-04-24,Salary,Income,2471.06,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-926372
+2025-05-14,Investments,Income,238.37,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-593393
+2025-08-30,Groceries,Expense,356.88,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-813763
+2025-07-31,Tech,Expense,31.08,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-310026
+2025-03-15,Entertainment,Expense,133.39,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-611265
+2025-06-10,Utilities,Expense,257.45,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-386814
+2025-10-23,Utilities,Expense,308.15,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-235691
+2025-07-26,Cybersecurity,Expense,177.32,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-104895
+2026-01-10,Dining,Expense,155.51,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-893612
+2025-01-10,Freelance,Income,273.93,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-827213
+2025-03-08,Investments,Income,50.06,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-275133
+2025-06-02,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-863187
+2025-06-22,Healthcare,Expense,179.13,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-613989
+2025-03-26,Dining,Expense,379.75,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-339513
+2025-04-19,Utilities,Expense,296.29,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-229144
+2025-07-12,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-722774
+2025-12-01,Salary,Income,2567.22,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-537020
+2025-10-08,Groceries,Expense,108.57,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-828961
+2025-06-04,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-794663
+2025-08-03,Utilities,Expense,333.95,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-396439
+2025-09-12,Groceries,Expense,87.47,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-971889
+2025-07-03,Dining,Expense,284.34,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-141319
+2025-12-19,Dining,Expense,373.92,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-102871
+2025-02-26,Groceries,Expense,335.74,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-194458
+2026-01-06,Groceries,Expense,292.19,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-578938
+2025-05-16,Investments,Income,191.07,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-141360
+2026-02-15,Investments,Income,273.94,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-199613
+2025-01-05,Salary,Income,2570.4,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-474894
+2026-03-26,Investments,Income,295.9,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-291752
+2025-08-22,Cybersecurity,Expense,116.01,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-938754
+2025-02-27,Utilities,Expense,61.68,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-208751
+2026-02-15,Entertainment,Expense,231.89,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-741018
+2025-11-10,Transport,Expense,21.24,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-611833
+2025-08-14,Cybersecurity,Expense,27.93,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-112960
+2026-01-28,Healthcare,Expense,300.01,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-802382
+2025-08-10,Salary,Income,2532.34,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-462544
+2025-03-18,Cybersecurity,Expense,337.22,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-112210
+2025-09-16,Utilities,Expense,341.05,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-178501
+2025-05-04,Transport,Expense,139.05,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-631553
+2025-07-26,Cybersecurity,Expense,328.67,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-565765
+2025-02-15,Entertainment,Expense,344.07,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-224473
+2025-02-22,Salary,Income,2480.69,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-966028
+2025-09-18,Tech,Expense,229.31,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-480992
+2026-03-09,Freelance,Income,187.24,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-851470
+2025-02-28,Entertainment,Expense,48.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-457938
+2025-10-08,Tech,Expense,213.57,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-272129
+2025-02-24,Cybersecurity,Expense,109.17,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-226611
+2025-04-21,Gift,Income,188.25,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-213000
+2025-11-21,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-909652
+2025-12-04,Gift,Income,239.83,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-623059
+2025-10-11,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-633025
+2025-12-21,Utilities,Expense,235.64,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-506224
+2025-09-16,Transport,Expense,353.74,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-386886
+2025-05-31,Transport,Expense,186.61,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-532794
+2025-06-03,Healthcare,Expense,338.8,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-846454
+2025-11-20,Healthcare,Expense,94.76,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-819964
+2025-12-30,Utilities,Expense,263.53,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-844858
+2025-10-15,Transport,Expense,197.34,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-806995
+2025-05-27,Healthcare,Expense,352.22,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-648122
+2025-03-16,Cybersecurity,Expense,30.7,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-379947
+2025-05-27,Utilities,Expense,276.52,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-824141
+2026-01-21,Dining,Expense,221.06,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-207458
+2026-03-19,Healthcare,Expense,97.48,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-349136
+2025-12-21,Tech,Expense,269.15,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-536801
+2025-10-10,Investments,Income,30.98,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-750706
+2026-03-01,Gift,Income,97.96,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-913848
+2025-05-31,Dining,Expense,185.04,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-282237
+2025-07-13,Groceries,Expense,25.85,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-236384
+2025-01-03,Tech,Expense,138.92,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-261169
+2026-02-01,Salary,Income,2586.48,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-614379
+2025-07-03,Healthcare,Expense,38.42,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-292800
+2025-03-23,Healthcare,Expense,172.21,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-196411
+2025-12-06,Dining,Expense,139.43,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-329056
+2025-10-15,Gift,Income,331.24,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-801432
+2025-11-25,Dining,Expense,249.34,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-141814
+2025-07-15,Transport,Expense,367.21,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-369054
+2025-01-13,Tech,Expense,365.42,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-610451
+2025-06-14,Dining,Expense,210.42,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-910883
+2025-11-17,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-802897
+2026-03-19,Dining,Expense,277.31,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-663876
+2025-11-28,Gift,Income,328.53,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-124906
+2025-01-20,Transport,Expense,44.13,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-932794
+2025-10-22,Groceries,Expense,330.43,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-506881
+2025-08-10,Cybersecurity,Expense,133.4,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-660814
+2026-01-23,Groceries,Expense,300.92,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-475075
+2025-05-29,Salary,Income,2557.38,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-395192
+2025-07-15,Entertainment,Expense,164.09,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-263917
+2026-01-18,Utilities,Expense,162.49,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-764845
+2025-01-06,Transport,Expense,225.87,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-229221
+2025-10-03,Cybersecurity,Expense,223.53,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-320256
+2025-04-19,Transport,Expense,170.94,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-268772
+2025-04-10,Tech,Expense,54.7,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-992744
+2025-08-25,Healthcare,Expense,261.42,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-804313
+2025-04-12,Groceries,Expense,292.98,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-474486
+2025-02-21,Dining,Expense,121.2,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-433222
+2025-11-12,Transport,Expense,267.17,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-693024
+2025-08-08,Transport,Expense,75.77,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-923824
+2025-05-22,Cybersecurity,Expense,337.64,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-603268
+2026-02-01,Transport,Expense,129.13,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-284308
+2026-03-07,Groceries,Expense,119.44,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-376021
+2026-01-08,Groceries,Expense,39.41,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-952117
+2026-01-29,Cybersecurity,Expense,240.11,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-669868
+2025-12-01,Gift,Income,312.33,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-334153
+2025-03-10,Investments,Income,191.23,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-516059
+2025-12-06,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-893988
+2025-03-23,Entertainment,Expense,79.87,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-871667
+2025-01-21,Transport,Expense,95.34,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-165914
+2025-01-22,Dining,Expense,270.75,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-506945
+2025-01-24,Entertainment,Expense,25.56,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-837920
+2026-03-04,Investments,Income,299.34,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-494956
+2025-10-28,Transport,Expense,264.8,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-494609
+2025-09-22,Freelance,Income,168.28,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-931161
+2025-09-14,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-273650
+2025-11-26,Healthcare,Expense,119.52,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-265001
+2025-12-05,Groceries,Expense,99.84,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-604906
+2025-04-18,Entertainment,Expense,240.41,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-355506
+2025-03-10,Utilities,Expense,255.52,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-158627
+2025-09-22,Utilities,Expense,383.71,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-854500
+2025-02-13,Tech,Expense,94.47,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-605065
+2025-11-04,Cybersecurity,Expense,65.66,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-753484
+2025-03-27,Tech,Expense,292.43,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-725510
+2025-07-13,Dining,Expense,160.33,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-312177
+2025-12-17,Healthcare,Expense,173.72,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-286040
+2026-03-26,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-197716
+2025-11-05,Utilities,Expense,220.32,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-647403
+2025-12-24,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-340633
+2026-02-09,Gift,Income,309.78,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-546157
+2026-01-28,Entertainment,Expense,100.68,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-727354
+2025-05-12,Gift,Income,83.72,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-645009
+2025-12-19,Dining,Expense,323.67,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-211760
+2025-05-14,Tech,Expense,343.44,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-741603
+2026-01-22,Cybersecurity,Expense,89.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-287401
+2025-09-05,Healthcare,Expense,108.97,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-911801
+2026-03-14,Utilities,Expense,346.89,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-568288
+2025-02-21,Utilities,Expense,93.64,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-939756
+2025-03-24,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-943442
+2025-08-30,Utilities,Expense,371.09,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-167193
+2025-02-10,Transport,Expense,247.52,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-743789
+2025-12-31,Tech,Expense,385.78,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-771394
+2025-04-14,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-304206
+2025-09-22,Healthcare,Expense,282.4,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-806765
+2025-12-02,Dining,Expense,10.11,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-389340
+2025-12-09,Transport,Expense,164.11,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-642892
+2025-02-16,Groceries,Expense,224.34,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-464354
+2025-04-26,Investments,Income,246.48,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-523579
+2025-03-31,Tech,Expense,168.78,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-627611
+2026-02-16,Groceries,Expense,210.18,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-827912
+2025-10-16,Cybersecurity,Expense,198.62,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-913274
+2025-10-28,Entertainment,Expense,346.19,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-370343
+2025-12-13,Dining,Expense,283.46,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-470248
+2025-12-25,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-401244
+2025-02-08,Transport,Expense,226.28,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-429119
+2025-04-04,Tech,Expense,379.38,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-872918
+2026-03-23,Dining,Expense,113.51,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-975498
+2025-03-21,Transport,Expense,313.79,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-808640
+2025-11-11,Gift,Income,12.58,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-989203
+2025-09-10,Transport,Expense,360.27,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-614646
+2025-05-24,Healthcare,Expense,165.17,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-156778
+2025-09-02,Cybersecurity,Expense,376.47,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-512842
+2025-08-23,Freelance,Income,390.84,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-430984
+2025-12-12,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-709231
+2025-11-10,Transport,Expense,346.12,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-348658
+2025-07-07,Transport,Expense,81.73,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-539450
+2025-07-06,Transport,Expense,343.19,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-288627
+2026-02-21,Dining,Expense,48.95,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-682316
+2025-04-11,Cybersecurity,Expense,66.88,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-944804
+2025-09-13,Cybersecurity,Expense,62.44,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-923481
+2025-10-15,Tech,Expense,344.82,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-203782
+2025-04-21,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-979725
+2026-01-17,Entertainment,Expense,140.52,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-687569
+2025-06-26,Tech,Expense,17.74,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-812597
+2025-10-23,Freelance,Income,234.6,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-918213
+2025-12-11,Transport,Expense,209.07,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-499581
+2025-11-20,Entertainment,Expense,383.07,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-542306
+2026-03-11,Cybersecurity,Expense,363.76,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-460317
+2025-12-01,Transport,Expense,123.63,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-384424
+2026-01-18,Investments,Income,238.9,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-275445
+2025-03-06,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-880009
+2025-04-18,Groceries,Expense,75.1,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-166891
+2025-10-08,Gift,Income,30.99,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-208976
+2025-02-13,Utilities,Expense,265.38,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-340497
+2025-08-15,Tech,Expense,254.33,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-129959
+2026-03-17,Transport,Expense,366.96,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-666843
+2025-03-11,Gift,Income,388.12,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-719531
+2025-09-26,Cybersecurity,Expense,259.52,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-464032
+2026-02-17,Dining,Expense,44.93,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-532227
+2025-01-06,Tech,Expense,10.04,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-400692
+2025-12-19,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-414164
+2026-02-13,Cybersecurity,Expense,124.24,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-674842
+2025-10-15,Cybersecurity,Expense,180.47,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-849666
+2026-03-01,Cybersecurity,Expense,157.56,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-542750
+2026-01-27,Healthcare,Expense,321.98,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-398505
+2026-02-19,Healthcare,Expense,114.84,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-291267
+2025-11-23,Groceries,Expense,187.58,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-834498
+2025-06-14,Dining,Expense,17.56,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-294969
+2025-05-18,Investments,Income,58.77,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-344119
+2025-09-10,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-540656
+2025-07-10,Entertainment,Expense,190.84,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-184120
+2025-01-29,Freelance,Income,113.94,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-669578
+2026-03-07,Dining,Expense,107.53,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-227885
+2025-07-17,Freelance,Income,310.78,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-873449
+2025-08-24,Freelance,Income,296.78,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-595793
+2025-06-15,Tech,Expense,71.86,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-365617
+2025-04-12,Tech,Expense,150.57,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-218414
+2025-06-16,Cybersecurity,Expense,15.88,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-515035
+2025-01-22,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-821846
+2026-01-30,Transport,Expense,44.9,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-195841
+2026-01-24,Transport,Expense,253.8,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-775885
+2026-02-10,Healthcare,Expense,51.88,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-432125
+2026-02-17,Investments,Income,357.8,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-822730
+2025-05-09,Utilities,Expense,360.48,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-686179
+2025-04-08,Entertainment,Expense,231.01,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-439403
+2026-03-21,Tech,Expense,334.23,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-172222
+2025-06-01,Entertainment,Expense,329.57,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-576136
+2025-07-14,Healthcare,Expense,296.13,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-913712
+2026-01-05,Transport,Expense,34.7,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-299092
+2026-01-28,Entertainment,Expense,225.07,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-438270
+2025-02-26,Transport,Expense,47.54,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-975763
+2026-03-24,Freelance,Income,22.2,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-300924
+2025-12-03,Cybersecurity,Expense,201.06,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-151470
+2025-01-07,Groceries,Expense,372.78,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-972496
+2025-07-04,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-961957
+2026-02-26,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-654718
+2026-03-04,Groceries,Expense,128.52,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-206142
+2025-07-17,Healthcare,Expense,83.89,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-697717
+2025-10-13,Utilities,Expense,302.19,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-903506
+2025-12-12,Transport,Expense,188.9,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-274912
+2025-07-25,Healthcare,Expense,206.83,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-469438
+2026-03-09,Investments,Income,154.97,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-737967
+2025-04-20,Healthcare,Expense,156.27,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-477496
+2025-07-23,Gift,Income,10.08,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-724702
+2025-06-04,Utilities,Expense,12.56,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-997287
+2025-10-11,Tech,Expense,209.4,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-198867
+2025-03-21,Transport,Expense,63.98,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-344312
+2025-02-17,Tech,Expense,232.49,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-869933
+2026-02-10,Transport,Expense,198.19,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-724145
+2026-01-10,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-182289
+2025-06-28,Transport,Expense,353.12,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-226395
+2026-01-18,Freelance,Income,264.58,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-764678
+2025-01-28,Cybersecurity,Expense,128.87,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-666157
+2025-09-15,Transport,Expense,282.13,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-806357
+2025-08-17,Cybersecurity,Expense,303.61,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-332873
+2025-03-17,Cybersecurity,Expense,61.55,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-699198
+2025-07-24,Healthcare,Expense,112.4,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-911414
+2025-09-04,Utilities,Expense,228.13,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-783932
+2025-11-12,Healthcare,Expense,398.86,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-354085
+2025-06-15,Cybersecurity,Expense,277.05,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-217996
+2025-07-07,Cybersecurity,Expense,145.84,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-722725
+2025-03-28,Tech,Expense,395.18,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-753453
+2026-02-23,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-818651
+2025-02-27,Groceries,Expense,298.44,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-972881
+2025-06-25,Salary,Income,2538.76,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-571923
+2025-04-18,Transport,Expense,298.61,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-672967
+2025-10-08,Tech,Expense,198.38,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-494900
+2025-01-23,Healthcare,Expense,109.63,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-310445
+2025-01-28,Tech,Expense,191.33,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-507523
+2026-03-19,Transport,Expense,52.08,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-342397
+2025-06-11,Salary,Income,2496.93,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-295472
+2025-10-15,Entertainment,Expense,371.28,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-359409
+2025-06-20,Investments,Income,201.07,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-463625
+2025-11-17,Transport,Expense,127.91,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-951331
+2026-03-26,Tech,Expense,161.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-336540
+2025-12-03,Cybersecurity,Expense,63.53,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-537605
+2025-08-07,Utilities,Expense,388.51,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-570988
+2025-12-01,Dining,Expense,64.04,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-244818
+2025-03-11,Healthcare,Expense,177.73,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-432918
+2026-01-04,Healthcare,Expense,56.17,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-862398
+2026-03-27,Transport,Expense,389.43,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-564523
+2025-03-19,Tech,Expense,313.85,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-293720
+2025-11-07,Tech,Expense,231.15,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-342129
+2025-02-10,Transport,Expense,278.38,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-626725
+2025-12-31,Gift,Income,263.33,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-615318
+2025-04-09,Utilities,Expense,98.25,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-382967
+2026-01-16,Freelance,Income,271.82,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-169348
+2026-03-20,Entertainment,Expense,250.65,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-358771
+2025-11-08,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-513296
+2025-09-26,Healthcare,Expense,260.14,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-573546
+2026-03-26,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-870881
+2025-09-22,Cybersecurity,Expense,308.41,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-405323
+2026-02-01,Tech,Expense,332.77,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-542983
+2025-12-20,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-586097
+2025-02-16,Gift,Income,291.83,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-916558
+2025-03-11,Healthcare,Expense,163.3,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-126122
+2025-08-21,Dining,Expense,45.17,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-853270
+2025-02-28,Groceries,Expense,285.43,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-649262
+2025-11-10,Healthcare,Expense,380.4,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-146038
+2025-10-17,Transport,Expense,349.81,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-251631
+2025-08-03,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-865630
+2025-05-28,Entertainment,Expense,254.32,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-312705
+2025-01-07,Tech,Expense,188.87,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-737517
+2025-04-22,Freelance,Income,239.66,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-530074
+2025-05-06,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-749871
+2025-01-26,Dining,Expense,82.09,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-138504
+2025-12-08,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-447195
+2025-02-25,Salary,Income,2483.39,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-804737
+2025-04-01,Healthcare,Expense,386.85,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-137581
+2025-06-15,Tech,Expense,153.74,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-895284
+2025-02-03,Healthcare,Expense,124.2,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-828361
+2025-09-27,Investments,Income,171.37,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-741784
+2025-02-14,Healthcare,Expense,198.63,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-547798
+2025-05-13,Transport,Expense,214.9,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-236014
+2025-09-24,Entertainment,Expense,294.38,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-947228
+2025-12-29,Dining,Expense,123.29,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-223949
+2026-01-13,Groceries,Expense,340.75,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-534153
+2025-10-14,Transport,Expense,324.36,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-771736
+2025-05-11,Tech,Expense,318.18,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-631302
+2025-02-28,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-515287
+2026-03-03,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-446569
+2025-08-31,Gift,Income,320.93,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-262934
+2025-06-21,Healthcare,Expense,190.36,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-975671
+2025-10-12,Transport,Expense,219.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-938373
+2025-02-03,Investments,Income,388.15,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-455627
+2025-10-20,Freelance,Income,246.22,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-920347
+2025-12-30,Transport,Expense,22.34,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-621199
+2025-08-20,Investments,Income,333.49,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-650607
+2025-07-11,Groceries,Expense,316.13,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-565330
+2025-09-14,Entertainment,Expense,70.09,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-868020
+2026-02-02,Investments,Income,137.66,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-315154
+2025-07-18,Entertainment,Expense,288.33,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-104309
+2025-12-18,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-449479
+2025-02-22,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-123572
+2025-11-24,Tech,Expense,357.93,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-301898
+2025-06-13,Healthcare,Expense,311.39,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-256574
+2025-01-08,Groceries,Expense,383.74,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-316612
+2025-06-13,Healthcare,Expense,115.71,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-279594
+2025-10-04,Transport,Expense,183.02,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-593602
+2025-02-24,Salary,Income,2476.72,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-510954
+2025-11-12,Entertainment,Expense,148.69,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-847528
+2025-02-10,Healthcare,Expense,389.74,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-197429
+2025-02-19,Entertainment,Expense,187.68,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-342948
+2026-03-17,Freelance,Income,359.32,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-511122
+2026-02-08,Transport,Expense,345.71,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-611187
+2025-02-27,Entertainment,Expense,147.06,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-395968
+2025-09-18,Utilities,Expense,50.14,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-683165
+2025-09-30,Tech,Expense,189.78,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-350164
+2025-03-23,Healthcare,Expense,389.82,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-457264
+2026-02-06,Cybersecurity,Expense,392.28,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-670977
+2025-12-06,Utilities,Expense,271.15,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-219876
+2025-06-16,Entertainment,Expense,226.48,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-422998
+2025-11-03,Salary,Income,2421.75,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-443312
+2025-02-16,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-708979
+2026-01-23,Salary,Income,2429.35,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-657062
+2025-04-11,Entertainment,Expense,90.21,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-697978
+2025-08-11,Tech,Expense,289.94,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-711033
+2025-07-26,Healthcare,Expense,340.58,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-487158
+2025-01-01,Salary,Income,2540.67,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-395917
+2025-08-10,Freelance,Income,283.87,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-846348
+2025-08-11,Cybersecurity,Expense,222.6,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-245824
+2026-03-08,Cybersecurity,Expense,370.55,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-402483
+2025-03-10,Freelance,Income,14.53,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-856379
+2025-03-11,Gift,Income,43.02,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-927251
+2025-11-16,Cybersecurity,Expense,80.12,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-678866
+2025-07-01,Gift,Income,98.04,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-706012
+2025-12-31,Dining,Expense,205.67,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-135087
+2025-12-27,Gift,Income,153.75,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-824038
+2026-03-16,Healthcare,Expense,393.63,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-642060
+2025-05-06,Groceries,Expense,194.26,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-742818
+2025-10-01,Transport,Expense,313.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-637566
+2025-08-04,Investments,Income,147.64,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-275645
+2026-01-08,Tech,Expense,316.16,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-759868
+2025-10-21,Utilities,Expense,30.13,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-400748
+2025-09-16,Utilities,Expense,39.98,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-238976
+2026-03-16,Tech,Expense,110.21,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-720515
+2025-07-09,Entertainment,Expense,325.06,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-608473
+2026-03-18,Healthcare,Expense,22.91,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-724473
+2026-03-05,Freelance,Income,203.42,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-349505
+2025-04-18,Utilities,Expense,235.33,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-773459
+2025-01-27,Groceries,Expense,75.36,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-416006
+2025-04-30,Healthcare,Expense,158.12,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-375382
+2025-01-07,Cybersecurity,Expense,122.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-811451
+2025-12-16,Healthcare,Expense,382.79,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-985249
+2025-06-21,Tech,Expense,115.43,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-786128
+2026-01-31,Entertainment,Expense,273.36,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-645209
+2025-06-10,Utilities,Expense,223.57,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-112542
+2025-02-23,Healthcare,Expense,277.34,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-860480
+2025-01-18,Dining,Expense,19.24,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-722999
+2025-11-03,Dining,Expense,258.85,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-998043
+2025-12-03,Cybersecurity,Expense,307.9,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-216229
+2025-05-31,Tech,Expense,192.11,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-389809
+2025-05-12,Transport,Expense,73.17,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-914854
+2025-06-20,Cybersecurity,Expense,398.42,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-286572
+2025-04-13,Entertainment,Expense,248.02,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-213697
+2025-04-22,Cybersecurity,Expense,249.45,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-850151
+2025-02-07,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-914992
+2025-03-18,Entertainment,Expense,264.62,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-796889
+2025-12-25,Utilities,Expense,138.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-640418
+2025-09-02,Entertainment,Expense,180.06,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-103468
+2025-03-04,Entertainment,Expense,231.23,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-814956
+2025-11-20,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-660596
+2025-02-11,Investments,Income,338.06,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-285197
+2025-12-05,Cybersecurity,Expense,84.49,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-761249
+2025-02-13,Entertainment,Expense,355.23,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-246740
+2026-01-04,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-612997
+2025-11-26,Healthcare,Expense,130.02,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-117215
+2025-06-22,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-223928
+2025-08-23,Healthcare,Expense,376.64,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-877048
+2025-01-19,Groceries,Expense,296.83,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-594109
+2025-05-05,Salary,Income,2540.26,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-280616
+2026-02-25,Tech,Expense,319.54,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-975930
+2025-02-28,Groceries,Expense,203.89,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-166175
+2025-06-22,Cybersecurity,Expense,326.49,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-226670
+2025-06-14,Freelance,Income,336.21,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-721894
+2025-03-03,Groceries,Expense,116.82,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-830119
+2025-08-13,Utilities,Expense,105.02,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-239849
+2026-02-03,Cybersecurity,Expense,71.52,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-106658
+2025-12-28,Groceries,Expense,264.18,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-827191
+2025-12-21,Entertainment,Expense,59.49,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-648496
+2025-03-31,Dining,Expense,248.11,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-852037
+2025-11-18,Groceries,Expense,332.33,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-539128
+2025-04-09,Dining,Expense,55.83,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-748985
+2025-09-17,Healthcare,Expense,95.52,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-155646
+2025-12-17,Utilities,Expense,339.07,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-284888
+2025-01-28,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-319770
+2025-11-12,Transport,Expense,324.01,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-209493
+2025-04-01,Healthcare,Expense,71.64,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-639915
+2026-01-05,Dining,Expense,183.48,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-539422
+2025-04-28,Transport,Expense,313.8,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-202827
+2026-03-22,Cybersecurity,Expense,87.98,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-593869
+2025-08-12,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-739037
+2025-07-11,Cybersecurity,Expense,63.2,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-382795
+2025-01-17,Utilities,Expense,279.96,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-243132
+2025-08-23,Entertainment,Expense,173.11,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-409499
+2025-10-23,Utilities,Expense,388.35,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-531694
+2026-03-18,Gift,Income,398.31,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-977646
+2026-01-09,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-359870
+2025-10-30,Dining,Expense,379.04,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-538065
+2025-08-29,Salary,Income,2546.7,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-546376
+2026-02-19,Entertainment,Expense,321.23,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-619344
+2026-01-21,Healthcare,Expense,14.84,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-239158
+2025-11-28,Dining,Expense,399.59,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-801534
+2026-03-16,Entertainment,Expense,232.45,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-576935
+2026-03-24,Utilities,Expense,284.22,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-757258
+2026-03-17,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-824304
+2025-06-01,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-831963
+2026-02-08,Freelance,Income,277.02,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-871501
+2025-01-27,Investments,Income,53.28,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-749208
+2025-03-31,Transport,Expense,262.79,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-245129
+2025-10-04,Freelance,Income,54.29,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-889759
+2025-06-14,Dining,Expense,147.56,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-390607
+2025-06-26,Transport,Expense,186.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-593002
+2025-05-30,Healthcare,Expense,186.27,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-297503
+2025-02-14,Gift,Income,41.27,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-180685
+2025-02-27,Tech,Expense,281.86,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-314178
+2025-05-31,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-596925
+2026-01-13,Entertainment,Expense,261.43,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-166007
+2026-03-04,Dining,Expense,379.5,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-706815
+2025-09-06,Transport,Expense,241.41,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-580255
+2026-02-09,Utilities,Expense,129.53,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-607765
+2026-01-30,Tech,Expense,339.75,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-398196
+2025-11-13,Utilities,Expense,370.41,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-291134
+2025-03-24,Freelance,Income,102.78,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-702433
+2025-07-09,Tech,Expense,81.95,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-797883
+2025-03-17,Transport,Expense,155.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-659565
+2025-07-27,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-580290
+2025-01-03,Freelance,Income,388.36,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-778684
+2025-05-29,Entertainment,Expense,388.15,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-938416
+2025-06-23,Entertainment,Expense,278.77,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-246195
+2025-06-07,Groceries,Expense,19.67,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-567636
+2025-01-29,Transport,Expense,247.18,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-919234
+2025-04-11,Investments,Income,18.79,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-809952
+2025-09-20,Groceries,Expense,163.83,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-732471
+2025-12-08,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-255132
+2025-07-09,Cybersecurity,Expense,160.58,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-461675
+2026-03-24,Entertainment,Expense,228.8,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-877548
+2025-05-28,Gift,Income,73.88,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-246347
+2025-03-15,Salary,Income,2441.56,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-169327
+2025-02-15,Gift,Income,12.58,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-283388
+2025-04-13,Utilities,Expense,82.54,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-680771
+2026-03-04,Tech,Expense,238.23,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-335426
+2025-03-20,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-771670
+2025-03-05,Gift,Income,264.99,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-288085
+2025-01-15,Dining,Expense,56.55,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-169966
+2025-10-25,Transport,Expense,197.39,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-758501
+2025-07-11,Groceries,Expense,209.89,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-986340
+2025-03-16,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-826959
+2025-01-28,Utilities,Expense,116.34,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-151081
+2025-11-24,Healthcare,Expense,375.16,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-903673
+2025-11-03,Groceries,Expense,303.53,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-431570
+2025-05-19,Investments,Income,277.32,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-660380
+2025-01-07,Utilities,Expense,63.41,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-916639
+2025-03-25,Transport,Expense,49.94,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-971968
+2025-11-11,Healthcare,Expense,278.96,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-537619
+2025-03-01,Groceries,Expense,329.35,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-465124
+2025-03-13,Transport,Expense,328.65,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-280572
+2026-01-17,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-234966
+2025-12-19,Freelance,Income,98.36,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-236543
+2025-12-20,Gift,Income,307.58,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-119719
+2025-01-22,Cybersecurity,Expense,86.58,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-591868
+2025-01-23,Tech,Expense,35.84,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-920375
+2025-10-28,Dining,Expense,361.46,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-130680
+2025-10-24,Tech,Expense,145.66,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-629435
+2026-02-24,Groceries,Expense,235.47,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-850582
+2025-03-29,Tech,Expense,361.65,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-860583
+2025-09-16,Dining,Expense,342.01,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-832045
+2025-12-11,Entertainment,Expense,383.52,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-498055
+2025-04-27,Healthcare,Expense,168.96,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-588533
+2025-09-11,Utilities,Expense,307.29,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-186243
+2025-07-17,Groceries,Expense,120.61,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-820420
+2025-04-26,Gift,Income,226.03,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-297955
+2025-12-14,Gift,Income,153.3,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-804743
+2025-09-25,Entertainment,Expense,266.83,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-250331
+2026-01-15,Groceries,Expense,370.86,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-481377
+2025-04-13,Investments,Income,242.03,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-344181
+2025-05-23,Gift,Income,308.28,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-893041
+2025-07-02,Cybersecurity,Expense,195.57,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-608069
+2026-01-29,Utilities,Expense,187.31,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-613111
+2025-01-16,Utilities,Expense,48.85,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-622332
+2025-07-15,Utilities,Expense,245.79,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-417459
+2026-01-25,Groceries,Expense,39.84,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-931239
+2025-12-05,Tech,Expense,204.18,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-668787
+2025-10-07,Healthcare,Expense,16.89,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-224921
+2026-03-13,Transport,Expense,156.77,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-134455
+2025-12-28,Tech,Expense,74.02,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-427637
+2026-01-27,Entertainment,Expense,52.66,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-599028
+2025-09-17,Utilities,Expense,31.74,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-719755
+2026-01-28,Investments,Income,391.34,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-129514
+2026-03-05,Utilities,Expense,152.9,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-902364
+2025-07-14,Investments,Income,47.97,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-531939
+2025-05-07,Dining,Expense,101.5,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-821411
+2025-02-28,Tech,Expense,141.66,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-139193
+2025-10-18,Cybersecurity,Expense,210.76,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-121393
+2025-06-12,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-438083
+2025-02-21,Entertainment,Expense,279.44,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-620860
+2025-03-27,Transport,Expense,249.78,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-311559
+2026-03-07,Groceries,Expense,341.63,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-378035
+2026-02-16,Cybersecurity,Expense,98.1,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-720615
+2025-10-18,Groceries,Expense,322.46,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-319927
+2025-11-30,Groceries,Expense,331.26,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-553939
+2025-04-13,Transport,Expense,171.58,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-804181
+2025-01-10,Utilities,Expense,254.86,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-704864
+2025-05-18,Entertainment,Expense,375.49,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-693616
+2025-09-25,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-584952
+2026-01-18,Utilities,Expense,277.27,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-530189
+2025-11-21,Groceries,Expense,89.39,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-963723
+2025-05-12,Utilities,Expense,277.87,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-350067
+2025-01-15,Dining,Expense,105.78,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-608960
+2025-08-05,Cybersecurity,Expense,262.3,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-267099
+2025-05-13,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-775591
+2026-02-05,Gift,Income,17.76,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-730823
+2025-07-28,Groceries,Expense,359.74,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-980605
+2025-05-01,Utilities,Expense,53.65,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-647312
+2025-05-09,Healthcare,Expense,203.62,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-728958
+2025-06-18,Transport,Expense,334.61,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-543410
+2025-03-31,Groceries,Expense,93.5,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-528212
+2025-09-09,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-833602
+2025-10-07,Investments,Income,175.27,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-922370
+2025-09-01,Investments,Income,289.11,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-776748
+2026-03-07,Salary,Income,2547.89,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-365271
+2025-11-24,Tech,Expense,383.81,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-660894
+2025-07-18,Gift,Income,13.07,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-415504
+2025-06-02,Dining,Expense,92.05,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-762021
+2026-02-09,Cybersecurity,Expense,23.21,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-593975
+2026-01-03,Transport,Expense,174.72,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-832411
+2025-06-30,Groceries,Expense,174.14,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-575279
+2025-11-25,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-929443
+2025-07-25,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-428961
+2025-03-22,Groceries,Expense,107.35,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-931145
+2025-09-02,Gift,Income,350.67,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-281905
+2026-02-14,Transport,Expense,119.9,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-485456
+2026-03-04,Cybersecurity,Expense,354.89,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-124085
+2025-02-15,Freelance,Income,389.91,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-835325
+2025-07-25,Salary,Income,2523.6,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-256501
+2025-03-29,Transport,Expense,379.42,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-853489
+2026-02-28,Entertainment,Expense,272.71,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-848225
+2025-05-28,Tech,Expense,301.11,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-552259
+2026-02-26,Freelance,Income,120.36,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-289131
+2025-01-15,Utilities,Expense,123.18,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-747684
+2025-07-09,Dining,Expense,237.33,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-110821
+2025-12-21,Transport,Expense,165.05,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-842866
+2025-02-07,Tech,Expense,47.16,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-449031
+2025-07-01,Gift,Income,398.73,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-105621
+2025-06-04,Cybersecurity,Expense,391.23,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-686741
+2025-05-14,Utilities,Expense,76.25,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-590822
+2025-12-30,Transport,Expense,216.87,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-222517
+2025-09-13,Utilities,Expense,349.96,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-550977
+2025-11-10,Tech,Expense,333.54,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-556943
+2026-01-13,Investments,Income,397.88,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-155807
+2025-04-28,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-593090
+2025-08-12,Entertainment,Expense,55.25,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-562966
+2025-09-06,Healthcare,Expense,188.53,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-229660
+2026-03-21,Dining,Expense,120.81,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-690607
+2025-10-26,Freelance,Income,399.22,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-536646
+2026-01-29,Freelance,Income,204.26,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-127223
+2025-07-21,Groceries,Expense,155.69,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-261245
+2026-03-02,Entertainment,Expense,286.01,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-758879
+2025-06-18,Salary,Income,2593.95,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-440698
+2025-04-19,Freelance,Income,346.68,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-936917
+2025-10-08,Groceries,Expense,381.24,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-518233
+2026-01-30,Dining,Expense,347.55,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-993749
+2026-02-04,Cybersecurity,Expense,166.93,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-413048
+2026-01-12,Cybersecurity,Expense,324.48,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-476485
+2025-09-20,Transport,Expense,87.95,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-599583
+2025-02-16,Cybersecurity,Expense,305.03,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-555193
+2025-01-21,Groceries,Expense,210.2,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-779068
+2025-09-11,Utilities,Expense,215.64,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-404824
+2026-02-15,Groceries,Expense,196.27,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-817555
+2025-09-25,Freelance,Income,176.82,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-677759
+2025-09-20,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-533082
+2025-07-01,Tech,Expense,109.4,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-219470
+2025-04-02,Entertainment,Expense,316.61,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-187336
+2025-06-10,Tech,Expense,239.01,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-754112
+2026-03-23,Transport,Expense,325.9,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-182020
+2026-03-23,Tech,Expense,272.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-106131
+2025-03-29,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-825411
+2025-06-05,Entertainment,Expense,251.21,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-824211
+2026-02-16,Cybersecurity,Expense,128.04,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-114549
+2025-12-23,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-319393
+2025-11-29,Utilities,Expense,104.29,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-190275
+2025-03-17,Entertainment,Expense,194.86,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-274174
+2025-09-06,Gift,Income,193.88,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-311118
+2025-01-27,Cybersecurity,Expense,140.2,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-535878
+2025-01-19,Investments,Income,200.12,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-343170
+2025-01-10,Healthcare,Expense,174.58,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-380859
+2025-08-31,Gift,Income,55.61,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-570103
+2025-03-24,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-592034
+2025-09-17,Dining,Expense,95.68,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-237529
+2025-08-02,Gift,Income,334.9,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-938603
+2025-11-15,Freelance,Income,90.81,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-235367
+2025-11-07,Utilities,Expense,201.95,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-418402
+2025-01-25,Healthcare,Expense,399.71,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-474387
+2026-02-28,Utilities,Expense,345.19,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-946007
+2025-02-28,Cybersecurity,Expense,250.85,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-609990
+2026-02-06,Transport,Expense,148.54,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-258522
+2025-12-28,Salary,Income,2410.08,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-982478
+2026-02-05,Groceries,Expense,248.12,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-631948
+2026-03-22,Groceries,Expense,90.1,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-863729
+2026-01-26,Entertainment,Expense,207.3,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-778526
+2025-03-04,Utilities,Expense,340.95,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-906584
+2026-03-04,Dining,Expense,325.57,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-629554
+2025-07-10,Tech,Expense,288.93,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-760016
+2026-01-21,Utilities,Expense,303.87,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-244697
+2025-07-29,Cybersecurity,Expense,360.25,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-131208
+2026-01-03,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-188896
+2026-01-31,Cybersecurity,Expense,74.09,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-896070
+2025-10-22,Utilities,Expense,32.55,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-539673
+2026-03-24,Healthcare,Expense,128.69,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-108286
+2025-12-25,Freelance,Income,167.54,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-831351
+2026-02-02,Cybersecurity,Expense,86.95,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-138766
+2026-01-07,Cybersecurity,Expense,290.36,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-324116
+2025-06-09,Healthcare,Expense,213.32,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-129246
+2025-05-04,Investments,Income,334.57,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-629818
+2026-03-07,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-757446
+2025-01-25,Groceries,Expense,305.06,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-412434
+2025-08-21,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-944510
+2026-03-09,Healthcare,Expense,242.26,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-398357
+2026-01-01,Utilities,Expense,157.29,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-443772
+2026-02-26,Dining,Expense,313.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-253672
+2025-02-11,Cybersecurity,Expense,45.98,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-599387
+2025-07-09,Groceries,Expense,273.96,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-376502
+2025-08-14,Cybersecurity,Expense,278.72,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-963829
+2025-03-07,Healthcare,Expense,199.06,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-838747
+2025-03-02,Healthcare,Expense,280.84,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-134191
+2025-07-09,Healthcare,Expense,369.46,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-215695
+2025-01-21,Tech,Expense,213.88,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-419736
+2025-05-31,Investments,Income,199.51,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-921866
+2025-06-06,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-291970
+2025-01-02,Entertainment,Expense,57.71,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-146852
+2025-10-17,Tech,Expense,186.43,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-598312
+2026-01-26,Freelance,Income,64.02,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-799631
+2025-02-15,Transport,Expense,321.93,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-506045
+2025-06-23,Cybersecurity,Expense,220.99,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-777292
+2025-12-29,Utilities,Expense,19.67,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-775192
+2025-11-13,Dining,Expense,221.32,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-887017
+2025-03-03,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-119895
+2025-05-06,Dining,Expense,333.58,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-188759
+2025-07-25,Transport,Expense,239.67,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-456470
+2025-01-13,Cybersecurity,Expense,345.26,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-369670
+2025-10-05,Groceries,Expense,75.58,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-367968
+2025-06-07,Utilities,Expense,381.34,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-744324
+2025-01-14,Freelance,Income,288.19,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-203540
+2025-06-15,Cybersecurity,Expense,110.59,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-312398
+2025-09-10,Dining,Expense,208.36,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-220671
+2025-08-26,Transport,Expense,225.72,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-130310
+2025-01-10,Dining,Expense,114.97,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-358281
+2025-06-05,Utilities,Expense,231.62,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-987386
+2026-02-05,Dining,Expense,387.49,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-920011
+2025-10-12,Cybersecurity,Expense,186.18,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-969659
+2025-01-01,Utilities,Expense,33.47,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-726909
+2025-06-29,Cybersecurity,Expense,338.55,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-147694
+2025-10-16,Healthcare,Expense,37.27,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-832356
+2026-01-07,Utilities,Expense,227.03,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-321092
+2025-12-16,Transport,Expense,378.71,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-386275
+2025-06-24,Transport,Expense,92.14,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-116645
+2025-11-27,Freelance,Income,369.68,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-104487
+2025-07-31,Freelance,Income,226.76,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-664271
+2025-10-03,Groceries,Expense,22.07,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-470141
+2026-02-28,Gift,Income,244.51,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-979908
+2025-03-05,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-302365
+2026-01-16,Dining,Expense,17.71,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-300814
+2026-02-18,Tech,Expense,289.95,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-480632
+2025-12-27,Entertainment,Expense,285.72,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-305611
+2025-02-26,Gift,Income,349.27,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-278758
+2025-02-03,Utilities,Expense,239.38,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-372235
+2025-09-25,Freelance,Income,294.27,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-988843
+2025-11-11,Healthcare,Expense,108.64,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-102049
+2026-03-14,Salary,Income,2587.75,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-387347
+2025-08-27,Healthcare,Expense,203.27,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-856254
+2025-08-04,Tech,Expense,217.64,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-510893
+2026-03-27,Groceries,Expense,233.01,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-823044
+2025-05-08,Groceries,Expense,86.78,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-165896
+2025-01-15,Groceries,Expense,197.19,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-981336
+2025-08-31,Groceries,Expense,102.96,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-961545
+2025-02-07,Dining,Expense,312.54,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-901215
+2025-10-24,Entertainment,Expense,58.68,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-495727
+2026-02-05,Groceries,Expense,59.74,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-416115
+2025-02-03,Cybersecurity,Expense,49.71,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-409242
+2025-02-19,Gift,Income,250.75,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-728700
+2025-08-21,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-933790
+2025-06-23,Groceries,Expense,263.86,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-642337
+2025-02-25,Dining,Expense,50.05,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-721686
+2025-10-21,Dining,Expense,59.13,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-472654
+2025-04-06,Entertainment,Expense,104.83,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-233882
+2025-09-20,Cybersecurity,Expense,384.3,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-712018
+2025-03-17,Freelance,Income,193.11,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-405202
+2025-09-23,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-160101
+2026-03-16,Healthcare,Expense,31.3,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-310105
+2026-02-07,Dining,Expense,36.68,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-828531
+2025-11-04,Entertainment,Expense,280.04,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-746030
+2025-03-25,Transport,Expense,50.89,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-330063
+2025-12-21,Freelance,Income,99.81,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-350629
+2026-02-18,Transport,Expense,298.63,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-293194
+2025-07-05,Salary,Income,2401.98,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-681636
+2025-08-14,Tech,Expense,85.82,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-146037
+2025-04-12,Freelance,Income,120.8,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-853754
+2025-05-06,Healthcare,Expense,79.63,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-983825
+2025-01-11,Groceries,Expense,334.26,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-786680
+2025-06-23,Groceries,Expense,375.08,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-351815
+2025-12-05,Transport,Expense,76.83,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-845476
+2025-03-08,Utilities,Expense,320.01,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-828082
+2025-11-22,Cybersecurity,Expense,105.37,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-995940
+2025-06-17,Utilities,Expense,106.4,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-992865
+2025-04-18,Entertainment,Expense,293.65,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-275566
+2025-07-11,Healthcare,Expense,204.45,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-437456
+2025-12-22,Healthcare,Expense,198.49,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-381370
+2025-04-17,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-574040
+2025-04-22,Gift,Income,129.34,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-983353
+2025-02-13,Healthcare,Expense,62.39,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-566097
+2025-10-26,Dining,Expense,26.05,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-546800
+2025-07-29,Cybersecurity,Expense,153.33,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-386281
+2025-08-15,Utilities,Expense,101.18,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-186422
+2025-09-20,Healthcare,Expense,223.19,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-338804
+2025-07-04,Groceries,Expense,24.93,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-306198
+2025-06-04,Tech,Expense,300.63,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-839919
+2026-03-14,Utilities,Expense,303.43,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-108948
+2026-02-26,Tech,Expense,145.19,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-961784
+2025-08-30,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-516814
+2025-08-31,Dining,Expense,101.15,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-857607
+2026-02-10,Transport,Expense,43.49,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-907540
+2025-04-18,Gift,Income,181.09,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-492901
+2025-06-06,Utilities,Expense,377.91,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-949767
+2025-06-23,Transport,Expense,97.94,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-899897
+2025-06-03,Healthcare,Expense,137.17,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-245893
+2025-10-18,Transport,Expense,255.64,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-499841
+2025-02-02,Cybersecurity,Expense,218.45,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-213915
+2025-11-24,Entertainment,Expense,358.95,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-209380
+2025-01-17,Utilities,Expense,332.33,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-128142
+2025-07-17,Groceries,Expense,120.69,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-791609
+2025-01-30,Entertainment,Expense,153.77,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-442645
+2025-07-20,Gift,Income,71.24,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-662511
+2025-07-19,Groceries,Expense,382.49,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-315667
+2025-03-23,Entertainment,Expense,245.45,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-626883
+2025-05-22,Entertainment,Expense,88.66,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-167077
+2025-09-27,Freelance,Income,138.27,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-582559
+2026-01-13,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-777693
+2025-06-27,Gift,Income,283.12,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-742805
+2025-08-01,Freelance,Income,107.16,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-580067
+2025-12-24,Utilities,Expense,231.76,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-351338
+2025-05-21,Freelance,Income,354.2,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-799040
+2025-09-10,Freelance,Income,170.4,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-486643
+2025-09-16,Groceries,Expense,308.95,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-572840
+2025-09-17,Dining,Expense,27.41,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-769900
+2025-07-15,Entertainment,Expense,144.03,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-515943
+2025-02-28,Tech,Expense,286.55,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-802855
+2025-08-25,Entertainment,Expense,36.61,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-848244
+2025-08-30,Freelance,Income,329.97,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-979226
+2025-04-01,Groceries,Expense,124.72,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-276636
+2025-12-13,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-562063
+2026-01-01,Dining,Expense,23.43,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-563531
+2025-11-25,Healthcare,Expense,268.39,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-823880
+2025-11-03,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-909930
+2025-05-08,Dining,Expense,156.11,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-195825
+2025-01-08,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-812989
+2025-02-19,Dining,Expense,320.8,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-146150
+2026-02-22,Groceries,Expense,137.59,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-755017
+2025-07-22,Healthcare,Expense,376.18,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-324164
+2025-03-30,Transport,Expense,15.85,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-508091
+2025-02-03,Dining,Expense,266.61,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-146073
+2025-07-30,Dining,Expense,127.6,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-206759
+2025-05-09,Utilities,Expense,384.02,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-761519
+2025-06-20,Utilities,Expense,78.38,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-170793
+2025-07-15,Entertainment,Expense,209.3,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-343904
+2025-06-08,Groceries,Expense,102.19,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-749871
+2025-07-11,Utilities,Expense,204.5,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-494000
+2025-05-02,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-875165
+2025-05-23,Freelance,Income,133.84,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-779525
+2025-04-28,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-354016
+2025-12-07,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-737600
+2025-04-04,Investments,Income,182.52,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-615524
+2025-01-27,Dining,Expense,257.4,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-231660
+2026-03-02,Healthcare,Expense,320.14,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-632073
+2025-06-09,Entertainment,Expense,74.02,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-544613
+2025-06-05,Dining,Expense,121.29,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-385066
+2025-02-10,Gift,Income,380.9,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-496065
+2025-08-05,Entertainment,Expense,207.06,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-959416
+2025-01-11,Gift,Income,307.15,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-895720
+2025-11-01,Investments,Income,219.51,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-369789
+2025-08-21,Tech,Expense,120.46,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-175434
+2025-04-11,Entertainment,Expense,70.34,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-113457
+2025-09-09,Investments,Income,167.78,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-878246
+2025-06-07,Entertainment,Expense,260.01,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-528644
+2025-07-17,Salary,Income,2586.43,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-900011
+2026-01-30,Tech,Expense,366.1,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-765824
+2025-11-30,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-871399
+2025-01-18,Entertainment,Expense,369.37,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-831351
+2025-05-14,Utilities,Expense,246.12,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-359433
+2025-01-07,Utilities,Expense,55.52,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-516983
+2025-09-23,Groceries,Expense,364.88,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-970055
+2025-09-14,Tech,Expense,387.4,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-869584
+2025-02-25,Groceries,Expense,258.11,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-382089
+2025-12-24,Cybersecurity,Expense,130.16,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-101655
+2025-09-26,Cybersecurity,Expense,172.57,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-278922
+2025-12-27,Utilities,Expense,62.39,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-627028
+2025-10-18,Gift,Income,327.6,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-161847
+2025-05-13,Dining,Expense,393.35,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-757286
+2026-03-21,Salary,Income,2527.29,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-189870
+2025-02-02,Tech,Expense,143.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-601111
+2025-01-05,Groceries,Expense,33.81,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-201546
+2025-07-12,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-609530
+2025-11-06,Transport,Expense,177.49,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-430536
+2025-12-07,Transport,Expense,165.4,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-473323
+2025-01-02,Salary,Income,2491.38,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-126927
+2025-05-24,Healthcare,Expense,380.91,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-573870
+2025-09-21,Entertainment,Expense,171.12,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-769068
+2025-01-09,Investments,Income,257.17,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-810860
+2025-07-24,Entertainment,Expense,298.29,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-548702
+2025-12-04,Gift,Income,344.27,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-408137
+2026-03-22,Utilities,Expense,212.82,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-234072
+2025-06-04,Groceries,Expense,334.62,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-276216
+2025-09-04,Salary,Income,2532.53,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-321921
+2025-02-24,Groceries,Expense,179.61,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-442360
+2025-04-23,Investments,Income,290.48,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-797802
+2025-11-21,Healthcare,Expense,292.91,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-334677
+2025-11-26,Salary,Income,2468.65,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-947718
+2025-03-01,Tech,Expense,123.48,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-456765
+2026-01-17,Dining,Expense,377.38,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-233606
+2025-10-23,Gift,Income,297.4,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-718722
+2025-08-05,Cybersecurity,Expense,134.66,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-644998
+2025-02-24,Dining,Expense,164.17,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-431272
+2026-03-05,Tech,Expense,95.37,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-730682
+2025-11-03,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-626781
+2025-05-21,Salary,Income,2599.37,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-761732
+2025-05-30,Gift,Income,284.61,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-949566
+2026-03-11,Dining,Expense,295.74,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-913735
+2026-01-08,Entertainment,Expense,162.81,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-674559
+2025-12-14,Cybersecurity,Expense,194.63,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-510059
+2025-05-25,Tech,Expense,281.59,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-202046
+2026-03-12,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-786433
+2025-08-15,Utilities,Expense,281.42,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-319955
+2026-01-12,Dining,Expense,263.98,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-811267
+2025-07-12,Utilities,Expense,380.66,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-159067
+2025-04-02,Entertainment,Expense,378.57,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-722217
+2025-11-18,Utilities,Expense,291.79,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-224573
+2025-06-04,Entertainment,Expense,278.31,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-913537
+2026-02-03,Groceries,Expense,190.83,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-763049
+2025-01-06,Transport,Expense,56.8,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-612982
+2025-04-26,Healthcare,Expense,18.98,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-387021
+2026-02-11,Groceries,Expense,241.22,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-775908
+2025-10-20,Tech,Expense,58.84,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-848440
+2025-07-27,Freelance,Income,327.02,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-683071
+2025-09-08,Healthcare,Expense,34.93,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-890110
+2025-04-03,Groceries,Expense,346.18,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-681667
+2025-03-04,Transport,Expense,25.27,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-784343
+2025-05-12,Healthcare,Expense,342.07,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-230775
+2025-10-06,Transport,Expense,76.93,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-415201
+2026-02-05,Healthcare,Expense,124.42,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-246648
+2025-09-25,Transport,Expense,365.21,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-821347
+2025-05-02,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-248548
+2025-03-10,Dining,Expense,244.84,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-390870
+2025-02-08,Cybersecurity,Expense,224.44,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-781332
+2025-08-22,Gift,Income,42.47,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-828252
+2025-02-06,Dining,Expense,255.53,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-849149
+2025-11-06,Healthcare,Expense,73.98,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-926051
+2025-11-06,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-383246
+2025-12-17,Groceries,Expense,223.86,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-771274
+2026-02-03,Transport,Expense,116.57,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-110342
+2025-07-13,Dining,Expense,381.2,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-652049
+2025-10-29,Tech,Expense,330.32,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-654654
+2025-10-10,Tech,Expense,115.71,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-279041
+2025-04-03,Cybersecurity,Expense,144.62,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-600025
+2025-01-05,Tech,Expense,277.8,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-249600
+2025-01-28,Tech,Expense,368.19,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-811160
+2025-04-04,Entertainment,Expense,181.19,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-626625
+2025-09-24,Cybersecurity,Expense,377.25,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-766511
+2025-07-28,Investments,Income,310.53,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-180418
+2025-03-26,Groceries,Expense,234.37,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-681078
+2025-08-06,Salary,Income,2535.41,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-621986
+2025-12-24,Healthcare,Expense,58.63,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-971783
+2025-12-26,Cybersecurity,Expense,218.39,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-874879
+2025-12-17,Healthcare,Expense,247.59,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-276718
+2025-04-26,Healthcare,Expense,78.18,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-638637
+2025-08-05,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-278765
+2025-06-23,Groceries,Expense,366.48,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-404154
+2025-05-16,Tech,Expense,93.1,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-328026
+2025-08-26,Salary,Income,2578.5,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-473024
+2025-06-18,Entertainment,Expense,126.36,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-466709
+2025-07-25,Freelance,Income,148.27,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-615947
+2025-09-21,Healthcare,Expense,360.42,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-611088
+2025-04-26,Tech,Expense,193.57,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-482201
+2025-10-02,Utilities,Expense,326.5,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-788159
+2025-03-13,Freelance,Income,147.96,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-476687
+2025-02-26,Freelance,Income,83.93,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-513711
+2025-01-17,Transport,Expense,72.52,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-797557
+2025-08-04,Salary,Income,2497.81,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-440669
+2025-09-14,Cybersecurity,Expense,293.14,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-215063
+2025-03-06,Salary,Income,2431.11,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-904661
+2025-12-14,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-726090
+2025-09-03,Cybersecurity,Expense,122.89,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-897861
+2026-01-09,Utilities,Expense,209.38,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-903972
+2025-12-25,Tech,Expense,106.47,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-596912
+2025-12-25,Groceries,Expense,294.88,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-297833
+2025-04-28,Freelance,Income,56.98,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-387164
+2025-08-07,Freelance,Income,16.89,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-153430
+2025-06-06,Healthcare,Expense,283.06,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-452508
+2025-09-19,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-419071
+2025-05-24,Transport,Expense,377.77,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-435377
+2025-01-21,Freelance,Income,10.21,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-399176
+2025-08-09,Groceries,Expense,82.09,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-450520
+2025-12-09,Groceries,Expense,15.33,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-447300
+2026-01-16,Transport,Expense,313.74,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-349825
+2025-10-27,Dining,Expense,159.78,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-760140
+2025-01-22,Groceries,Expense,238.76,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-838889
+2025-02-08,Groceries,Expense,377.31,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-416120
+2025-10-01,Dining,Expense,291.1,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-301019
+2026-03-26,Tech,Expense,306.15,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-483791
+2025-08-12,Groceries,Expense,36.41,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-275044
+2025-05-29,Utilities,Expense,27.72,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-932978
+2026-01-15,Freelance,Income,327.67,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-273558
+2025-07-16,Healthcare,Expense,229.37,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-736714
+2025-01-02,Utilities,Expense,72.4,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-929053
+2025-12-29,Healthcare,Expense,291.03,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-993884
+2025-10-10,Tech,Expense,56.45,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-659484
+2025-11-24,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-239430
+2025-11-25,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-660563
+2025-11-20,Transport,Expense,246.01,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-187289
+2026-01-05,Investments,Income,62.11,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-440404
+2026-02-26,Salary,Income,2471.1,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-368422
+2026-01-05,Salary,Income,2549.15,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-756649
+2025-04-16,Healthcare,Expense,328.57,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-381850
+2025-03-21,Cybersecurity,Expense,183.96,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-255539
+2025-09-11,Salary,Income,2436.3,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-298033
+2025-11-28,Utilities,Expense,120.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-286367
+2025-02-05,Dining,Expense,65.97,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-577127
+2025-02-21,Gift,Income,292.48,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-732599
+2025-01-11,Cybersecurity,Expense,52.91,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-238599
+2025-05-18,Groceries,Expense,65.63,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-930892
+2025-10-05,Salary,Income,2547.23,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-312149
+2026-02-22,Entertainment,Expense,73.63,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-262018
+2025-12-21,Healthcare,Expense,114.31,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-122238
+2025-10-06,Salary,Income,2459.35,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-248724
+2025-01-13,Dining,Expense,98.4,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-470472
+2026-03-27,Dining,Expense,276.92,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-277795
+2025-02-22,Freelance,Income,383.02,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-179995
+2025-07-04,Groceries,Expense,370.09,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-733870
+2025-09-29,Cybersecurity,Expense,140.59,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-257517
+2025-11-16,Investments,Income,328.85,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-384261
+2025-05-16,Investments,Income,326.18,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-255863
+2025-06-13,Utilities,Expense,67.63,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-954222
+2026-01-08,Cybersecurity,Expense,118.61,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-233730
+2025-06-30,Cybersecurity,Expense,134.53,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-827104
+2025-03-12,Investments,Income,322.83,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-538996
+2025-10-01,Healthcare,Expense,202.11,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-503310
+2025-09-27,Cybersecurity,Expense,235.37,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-346617
+2026-03-12,Dining,Expense,16.69,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-240082
+2025-06-28,Salary,Income,2472.17,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-582752
+2025-08-04,Healthcare,Expense,104.57,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-883281
+2025-07-13,Utilities,Expense,295.9,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-156710
+2025-09-02,Groceries,Expense,336.6,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-254021
+2025-05-06,Groceries,Expense,40.06,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-256989
+2026-01-16,Entertainment,Expense,64.64,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-593024
+2025-08-16,Transport,Expense,314.74,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-216671
+2025-11-06,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-111395
+2025-12-15,Cybersecurity,Expense,379.81,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-699853
+2025-08-05,Dining,Expense,373.27,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-646833
+2026-01-16,Utilities,Expense,92.63,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-329540
+2025-11-06,Healthcare,Expense,338.27,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-428403
+2026-02-28,Cybersecurity,Expense,158.38,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-778058
+2025-02-25,Tech,Expense,50.72,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-129411
+2025-10-05,Utilities,Expense,51.52,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-893270
+2025-10-10,Freelance,Income,88.67,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-382243
+2025-10-16,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-150382
+2025-01-05,Tech,Expense,392.41,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-624514
+2026-01-07,Cybersecurity,Expense,148.78,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-447412
+2025-02-21,Healthcare,Expense,205.85,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-715698
+2025-10-28,Entertainment,Expense,348.84,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-269054
+2025-02-10,Entertainment,Expense,355.23,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-326122
+2026-01-29,Utilities,Expense,290.24,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-569217
+2025-05-29,Transport,Expense,150.52,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-847385
+2025-05-03,Cybersecurity,Expense,91.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-259804
+2025-02-19,Entertainment,Expense,323.84,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-673713
+2025-09-13,Salary,Income,2418.82,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-409967
+2025-10-23,Tech,Expense,151.7,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-287890
+2025-05-13,Entertainment,Expense,394.6,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-781880
+2025-10-19,Salary,Income,2497.65,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-520415
+2025-08-14,Utilities,Expense,153.03,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-491835
+2025-09-17,Cybersecurity,Expense,185.54,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-877039
+2025-01-05,Healthcare,Expense,70.28,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-494077
+2026-03-14,Cybersecurity,Expense,38.46,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-801655
+2025-08-28,Entertainment,Expense,260.57,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-189991
+2025-07-23,Groceries,Expense,309.6,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-444688
+2025-11-06,Transport,Expense,199.66,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-391897
+2025-03-21,Healthcare,Expense,379.93,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-435740
+2025-02-01,Cybersecurity,Expense,375.22,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-596405
+2026-03-21,Dining,Expense,18.95,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-364315
+2025-03-14,Groceries,Expense,37.01,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-412828
+2026-03-23,Gift,Income,173.69,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-293020
+2025-08-08,Salary,Income,2468.4,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-308252
+2025-09-04,Cybersecurity,Expense,195.44,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-471921
+2026-02-26,Gift,Income,13.87,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-181588
+2025-06-15,Utilities,Expense,268.98,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-257817
+2025-09-13,Freelance,Income,347.08,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-375568
+2025-08-19,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-769952
+2025-01-19,Salary,Income,2443.72,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-830276
+2025-11-04,Utilities,Expense,157.25,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-300444
+2025-07-09,Salary,Income,2562.76,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-421876
+2025-12-25,Groceries,Expense,204.66,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-530321
+2025-08-07,Healthcare,Expense,214.04,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-284354
+2025-04-01,Transport,Expense,225.57,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-500098
+2025-11-21,Cybersecurity,Expense,120.47,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-191876
+2025-02-15,Groceries,Expense,263.35,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-208711
+2025-02-21,Healthcare,Expense,257.07,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-800144
+2025-04-19,Cybersecurity,Expense,96.92,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-220063
+2025-03-05,Entertainment,Expense,146.74,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-960270
+2025-01-04,Cybersecurity,Expense,376.45,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-380608
+2025-06-07,Investments,Income,337.01,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-104359
+2025-01-17,Gift,Income,16.06,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-981610
+2025-06-21,Transport,Expense,76.46,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-353578
+2025-04-09,Cybersecurity,Expense,250.34,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-940257
+2025-03-07,Gift,Income,376.36,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-522700
+2025-08-12,Freelance,Income,100.08,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-762113
+2026-03-08,Cybersecurity,Expense,307.25,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-438065
+2025-01-14,Groceries,Expense,180.59,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-129169
+2025-02-10,Healthcare,Expense,233.0,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-575745
+2025-04-06,Transport,Expense,103.49,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-303244
+2026-01-07,Dining,Expense,314.21,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-791281
+2025-03-15,Groceries,Expense,254.7,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-216320
+2025-02-24,Groceries,Expense,65.32,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-197283
+2026-03-06,Transport,Expense,91.11,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-934080
+2025-09-07,Groceries,Expense,384.09,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-820724
+2025-11-21,Transport,Expense,364.24,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-413267
+2025-12-04,Utilities,Expense,231.24,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-222900
+2025-09-05,Investments,Income,398.02,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-266082
+2025-03-04,Tech,Expense,85.21,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-643157
+2025-04-21,Utilities,Expense,348.08,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-130930
+2025-02-12,Dining,Expense,293.82,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-386960
+2025-06-28,Groceries,Expense,286.15,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-881393
+2025-09-20,Cybersecurity,Expense,379.07,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-281361
+2025-07-21,Tech,Expense,50.13,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-273699
+2025-08-10,Entertainment,Expense,354.31,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-955524
+2025-11-07,Groceries,Expense,159.39,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-492125
+2025-08-19,Salary,Income,2433.45,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-715377
+2025-06-30,Healthcare,Expense,165.34,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-948340
+2025-07-03,Utilities,Expense,105.67,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-490032
+2025-03-04,Transport,Expense,13.76,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-324156
+2025-04-30,Transport,Expense,229.04,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-731035
+2025-02-22,Dining,Expense,228.77,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-701828
+2025-12-16,Gift,Income,304.92,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-307775
+2025-09-13,Entertainment,Expense,28.25,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-225052
+2025-11-04,Utilities,Expense,137.48,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-704413
+2025-11-26,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-584202
+2025-01-19,Cybersecurity,Expense,359.37,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-453778
+2025-08-29,Groceries,Expense,47.1,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-388016
+2025-07-24,Transport,Expense,41.11,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-742064
+2025-12-23,Tech,Expense,393.75,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-984028
+2025-01-15,Groceries,Expense,97.37,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-210242
+2025-04-26,Gift,Income,76.37,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-955792
+2025-12-19,Salary,Income,2573.6,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-216185
+2025-02-08,Tech,Expense,112.85,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-383023
+2025-10-26,Utilities,Expense,189.67,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-255190
+2025-11-23,Cybersecurity,Expense,184.24,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-705956
+2025-05-24,Entertainment,Expense,135.55,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-196258
+2025-12-31,Tech,Expense,42.29,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-791515
+2025-12-22,Dining,Expense,40.43,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-322796
+2025-08-28,Dining,Expense,329.22,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-209612
+2025-09-21,Healthcare,Expense,344.8,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-787120
+2025-02-24,Healthcare,Expense,366.51,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-504305
+2026-02-04,Freelance,Income,166.08,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-543646
+2026-03-22,Tech,Expense,235.12,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-583345
+2025-05-04,Salary,Income,2403.32,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-379714
+2025-08-20,Healthcare,Expense,147.26,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-471643
+2025-07-23,Utilities,Expense,205.85,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-155739
+2025-02-20,Transport,Expense,29.16,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-303352
+2025-04-01,Cybersecurity,Expense,241.68,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-643810
+2025-11-27,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-330246
+2025-10-22,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-169045
+2025-04-26,Tech,Expense,354.21,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-511970
+2025-09-11,Tech,Expense,90.23,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-767837
+2026-01-11,Tech,Expense,11.21,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-874992
+2025-03-29,Dining,Expense,132.89,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-296444
+2025-03-14,Entertainment,Expense,385.27,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-450281
+2025-02-09,Tech,Expense,76.58,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-596846
+2026-03-24,Entertainment,Expense,106.53,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-958706
+2026-03-04,Tech,Expense,99.03,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-891666
+2025-02-21,Groceries,Expense,128.79,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-614496
+2025-05-12,Healthcare,Expense,268.73,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-581035
+2025-06-04,Transport,Expense,286.96,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-218238
+2026-01-08,Healthcare,Expense,259.52,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-997859
+2025-07-02,Utilities,Expense,204.15,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-476879
+2025-04-10,Groceries,Expense,369.05,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-387230
+2026-03-25,Gift,Income,215.49,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-447283
+2025-05-22,Cybersecurity,Expense,130.64,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-974692
+2026-02-12,Cybersecurity,Expense,187.46,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-215543
+2025-12-17,Gift,Income,67.38,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-754096
+2025-06-05,Utilities,Expense,199.86,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-116349
+2025-05-25,Dining,Expense,331.93,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-612089
+2025-06-30,Cybersecurity,Expense,267.5,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-363647
+2026-02-07,Tech,Expense,345.01,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-190181
+2026-01-11,Utilities,Expense,86.72,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-404928
+2025-07-01,Entertainment,Expense,107.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-518500
+2025-05-14,Salary,Income,2584.04,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-281720
+2026-02-16,Transport,Expense,235.49,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-242282
+2025-06-04,Dining,Expense,128.95,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-672344
+2025-02-19,Cybersecurity,Expense,64.06,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-628288
+2025-08-28,Investments,Income,148.14,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-530187
+2025-01-14,Healthcare,Expense,383.42,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-892572
+2026-02-07,Tech,Expense,104.63,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-233457
+2025-01-28,Tech,Expense,304.58,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-522515
+2026-02-18,Entertainment,Expense,307.57,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-979962
+2025-05-19,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-723210
+2025-10-17,Tech,Expense,197.77,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-227341
+2026-01-14,Healthcare,Expense,289.61,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-689351
+2025-03-11,Entertainment,Expense,97.18,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-758756
+2026-02-17,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-220280
+2025-11-06,Utilities,Expense,353.16,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-359214
+2025-01-13,Entertainment,Expense,334.76,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-158356
+2025-07-27,Investments,Income,198.65,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-982608
+2026-02-25,Investments,Income,248.98,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-553355
+2025-04-05,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-279071
+2025-04-13,Healthcare,Expense,195.7,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-799961
+2025-07-08,Entertainment,Expense,270.4,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-831541
+2025-08-02,Entertainment,Expense,327.26,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-397189
+2025-01-06,Cybersecurity,Expense,236.41,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-144702
+2025-03-13,Investments,Income,192.48,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-109563
+2025-09-14,Investments,Income,343.78,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-465779
+2025-09-20,Gift,Income,34.48,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-787796
+2025-08-24,Transport,Expense,288.92,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-923091
+2025-07-21,Tech,Expense,36.6,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-594668
+2025-10-22,Utilities,Expense,286.32,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-235708
+2025-10-27,Transport,Expense,250.82,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-147111
+2025-04-29,Utilities,Expense,47.65,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-812321
+2026-01-31,Dining,Expense,325.34,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-282450
+2026-01-22,Cybersecurity,Expense,389.59,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-741627
+2026-03-10,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-900432
+2025-03-31,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-832667
+2025-11-23,Utilities,Expense,233.77,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-364760
+2025-04-26,Tech,Expense,88.47,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-953370
+2025-02-14,Dining,Expense,237.02,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-134853
+2025-07-04,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-457261
+2025-09-12,Healthcare,Expense,84.15,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-625179
+2026-03-13,Healthcare,Expense,63.77,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-548278
+2025-10-19,Groceries,Expense,40.48,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-205814
+2025-01-27,Dining,Expense,244.58,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-334903
+2026-03-01,Investments,Income,108.04,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-265531
+2025-10-01,Salary,Income,2515.07,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-518612
+2025-12-24,Healthcare,Expense,357.81,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-375831
+2025-06-23,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-310251
+2025-03-13,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-894133
+2025-05-01,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-944797
+2025-06-27,Salary,Income,2596.21,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-678211
+2025-05-19,Utilities,Expense,292.1,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-620719
+2025-08-09,Transport,Expense,196.26,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-158045
+2025-10-01,Dining,Expense,247.17,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-679334
+2026-01-28,Cybersecurity,Expense,157.12,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-835405
+2025-03-01,Utilities,Expense,180.8,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-468877
+2025-01-30,Cybersecurity,Expense,102.89,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-338158
+2025-10-18,Healthcare,Expense,27.85,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-952095
+2025-03-06,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-396323
+2025-11-05,Transport,Expense,265.53,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-236017
+2025-12-03,Entertainment,Expense,57.73,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-362352
+2025-09-11,Freelance,Income,285.05,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-565087
+2026-02-04,Transport,Expense,225.05,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-434347
+2025-02-23,Healthcare,Expense,31.06,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-393374
+2026-03-07,Utilities,Expense,390.62,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-877947
+2025-07-10,Groceries,Expense,292.72,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-346525
+2025-02-28,Entertainment,Expense,18.3,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-391469
+2026-02-28,Tech,Expense,386.39,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-996086
+2025-01-10,Entertainment,Expense,346.48,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-146573
+2025-04-05,Cybersecurity,Expense,267.37,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-792482
+2026-01-26,Healthcare,Expense,145.64,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-968386
+2026-01-23,Freelance,Income,20.66,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-548317
+2026-02-18,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-856334
+2026-03-16,Investments,Income,396.45,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-544423
+2025-05-14,Healthcare,Expense,73.39,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-881853
+2025-03-09,Freelance,Income,364.01,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-189691
+2025-06-22,Investments,Income,232.72,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-479264
+2026-02-05,Tech,Expense,264.68,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-230344
+2026-03-05,Transport,Expense,113.16,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-585201
+2025-08-27,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-603534
+2025-04-22,Healthcare,Expense,169.36,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-389874
+2025-02-02,Investments,Income,181.77,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-372148
+2025-04-27,Freelance,Income,255.83,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-343974
+2025-04-05,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-708059
+2026-01-03,Healthcare,Expense,98.9,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-116901
+2025-10-04,Transport,Expense,290.14,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-466718
+2025-08-16,Healthcare,Expense,54.14,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-313953
+2026-03-01,Transport,Expense,330.85,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-773067
+2025-03-15,Tech,Expense,19.63,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-451258
+2025-08-29,Investments,Income,377.57,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-268100
+2025-03-18,Tech,Expense,365.63,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-738622
+2025-09-19,Transport,Expense,289.15,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-325306
+2025-12-03,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-899656
+2025-02-09,Salary,Income,2591.73,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-665148
+2026-02-13,Healthcare,Expense,30.06,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-432335
+2025-05-05,Tech,Expense,138.19,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-577963
+2025-12-21,Groceries,Expense,104.01,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-183561
+2025-02-09,Healthcare,Expense,366.71,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-570777
+2025-10-19,Dining,Expense,332.85,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-914165
+2025-11-07,Freelance,Income,111.51,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-429089
+2025-08-04,Cybersecurity,Expense,206.96,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-763360
+2025-04-03,Freelance,Income,351.8,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-226656
+2025-12-31,Healthcare,Expense,372.75,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-135730
+2025-12-20,Salary,Income,2433.39,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-639908
+2025-08-05,Gift,Income,148.2,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-846568
+2026-02-27,Transport,Expense,360.36,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-857260
+2025-08-18,Transport,Expense,365.16,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-403343
+2026-01-11,Utilities,Expense,81.55,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-259652
+2025-12-12,Investments,Income,263.27,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-559891
+2026-01-31,Tech,Expense,47.79,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-457687
+2025-09-26,Healthcare,Expense,236.13,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-438480
+2025-03-15,Utilities,Expense,26.35,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-644352
+2025-02-20,Transport,Expense,145.46,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-401825
+2025-04-25,Entertainment,Expense,355.29,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-735615
+2025-12-08,Dining,Expense,118.67,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-678985
+2025-01-15,Freelance,Income,243.37,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-106988
+2025-07-09,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-698910
+2025-09-24,Entertainment,Expense,59.21,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-214939
+2025-08-16,Groceries,Expense,356.66,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-191083
+2026-01-10,Investments,Income,270.8,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-880431
+2025-06-17,Groceries,Expense,71.12,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-575491
+2025-12-11,Healthcare,Expense,313.05,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-554429
+2025-06-12,Healthcare,Expense,84.26,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-765318
+2025-03-12,Dining,Expense,238.67,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-378172
+2026-02-21,Entertainment,Expense,82.97,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-238193
+2025-09-22,Groceries,Expense,344.29,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-555416
+2025-11-09,Healthcare,Expense,91.33,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-538471
+2025-11-20,Cybersecurity,Expense,237.72,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-656228
+2026-03-26,Utilities,Expense,127.04,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-800423
+2025-11-03,Cybersecurity,Expense,149.28,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-201222
+2025-08-03,Tech,Expense,388.05,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-794595
+2025-08-26,Utilities,Expense,382.96,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-830824
+2026-02-01,Utilities,Expense,354.05,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-820604
+2025-05-18,Tech,Expense,207.92,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-689569
+2025-12-12,Tech,Expense,133.87,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-545853
+2025-05-18,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-456349
+2025-06-07,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-332060
+2025-10-02,Utilities,Expense,90.42,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-235492
+2026-01-05,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-194636
+2025-06-30,Transport,Expense,309.07,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-786745
+2025-07-05,Dining,Expense,218.83,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-852689
+2025-07-11,Utilities,Expense,139.29,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-114303
+2026-01-22,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-625860
+2025-01-22,Entertainment,Expense,71.21,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-341177
+2025-01-18,Dining,Expense,116.26,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-787106
+2026-03-18,Tech,Expense,43.12,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-121133
+2025-11-06,Healthcare,Expense,368.4,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-303721
+2026-02-06,Investments,Income,136.25,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-416831
+2025-02-21,Dining,Expense,113.07,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-494873
+2025-04-24,Groceries,Expense,387.09,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-606828
+2025-09-17,Healthcare,Expense,105.4,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-862899
+2026-01-26,Transport,Expense,223.17,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-334944
+2025-07-23,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-487786
+2025-11-26,Groceries,Expense,131.14,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-200022
+2026-03-19,Dining,Expense,377.42,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-187963
+2025-09-25,Entertainment,Expense,291.98,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-161795
+2025-07-30,Tech,Expense,131.47,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-138283
+2026-03-23,Cybersecurity,Expense,12.17,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-672091
+2025-06-14,Dining,Expense,189.94,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-210146
+2025-07-12,Groceries,Expense,59.64,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-645195
+2025-04-12,Utilities,Expense,180.66,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-544787
+2025-09-07,Healthcare,Expense,64.55,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-518807
+2025-08-11,Groceries,Expense,398.34,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-744979
+2025-03-14,Freelance,Income,123.18,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-644609
+2025-08-25,Entertainment,Expense,92.14,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-272216
+2025-01-06,Entertainment,Expense,133.9,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-593348
+2025-06-09,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-827759
+2025-06-19,Entertainment,Expense,46.94,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-723330
+2025-11-22,Transport,Expense,228.07,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-759367
+2025-05-21,Dining,Expense,120.83,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-485115
+2025-05-11,Cybersecurity,Expense,228.83,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-721427
+2025-05-24,Dining,Expense,79.55,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-232858
+2025-06-19,Cybersecurity,Expense,234.51,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-946514
+2025-04-18,Entertainment,Expense,75.56,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-195775
+2025-03-15,Freelance,Income,74.28,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-181566
+2025-03-12,Salary,Income,2502.34,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-797137
+2025-09-14,Tech,Expense,306.4,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-495637
+2025-07-01,Entertainment,Expense,131.59,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-656464
+2025-03-27,Dining,Expense,378.74,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-980673
+2025-09-08,Entertainment,Expense,281.09,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-685005
+2025-04-02,Investments,Income,19.87,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-908184
+2025-04-20,Cybersecurity,Expense,250.62,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-492383
+2025-04-11,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-651553
+2025-06-18,Tech,Expense,46.7,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-627217
+2025-01-18,Investments,Income,262.42,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-146050
+2025-05-21,Investments,Income,253.86,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-852908
+2025-09-09,Gift,Income,77.77,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-140048
+2025-12-28,Utilities,Expense,297.12,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-539953
+2025-01-29,Salary,Income,2488.68,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-202210
+2026-03-13,Investments,Income,85.73,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-448824
+2025-12-30,Investments,Income,75.99,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-641422
+2025-08-02,Cybersecurity,Expense,336.71,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-302312
+2026-01-09,Freelance,Income,113.99,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-146670
+2025-12-19,Dining,Expense,207.13,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-426279
+2025-03-02,Transport,Expense,143.17,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-693692
+2025-03-01,Salary,Income,2583.6,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-294677
+2026-01-28,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-328092
+2025-02-11,Entertainment,Expense,352.11,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-977981
+2026-01-18,Dining,Expense,304.77,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-155926
+2025-04-02,Tech,Expense,118.8,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-534092
+2025-05-20,Dining,Expense,354.59,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-371952
+2025-02-17,Tech,Expense,201.06,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-465805
+2025-08-19,Healthcare,Expense,333.51,Toronto,Ontario,Canada,43.6532,-79.3832,Credit Card,TXN-975271
+2025-10-03,Utilities,Expense,231.8,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-777388
+2025-04-17,Tech,Expense,143.45,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-195166
+2025-05-13,Dining,Expense,95.12,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-220898
+2025-09-01,Utilities,Expense,64.53,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-490366
+2025-06-15,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-108281
+2025-06-21,Entertainment,Expense,141.3,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-475394
+2025-10-07,Entertainment,Expense,82.6,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-948530
+2026-01-10,Cybersecurity,Expense,165.74,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-858510
+2025-09-05,Transport,Expense,274.64,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-345684
+2025-02-25,Healthcare,Expense,174.18,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-721885
+2025-03-27,Healthcare,Expense,369.72,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-695578
+2025-12-06,Utilities,Expense,139.93,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-424296
+2026-02-15,Utilities,Expense,144.98,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-582961
+2025-04-13,Utilities,Expense,354.35,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-184279
+2025-08-12,Dining,Expense,45.17,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-817974
+2025-01-03,Transport,Expense,196.16,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-593670
+2025-12-24,Cybersecurity,Expense,92.87,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-971730
+2026-01-26,Dining,Expense,367.61,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-433821
+2025-07-24,Utilities,Expense,311.57,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-725935
+2025-06-27,Groceries,Expense,200.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-332463
+2026-01-29,Freelance,Income,101.71,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-625814
+2025-02-09,Gift,Income,261.78,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-297101
+2025-08-11,Tech,Expense,46.21,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-546390
+2025-07-18,Tech,Expense,273.36,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-373698
+2025-04-02,Gift,Income,73.78,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-587506
+2025-12-18,Transport,Expense,295.74,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-268698
+2025-07-16,Healthcare,Expense,277.66,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-785577
+2025-08-05,Gift,Income,310.83,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-371213
+2025-11-06,Groceries,Expense,324.78,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-918941
+2026-03-09,Transport,Expense,218.66,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-923650
+2025-09-30,Cybersecurity,Expense,306.25,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-107294
+2025-04-12,Tech,Expense,210.81,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-556013
+2025-01-21,Tech,Expense,57.41,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-484936
+2025-05-10,Transport,Expense,176.02,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-669113
+2025-07-02,Tech,Expense,172.65,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-412143
+2025-07-02,Groceries,Expense,295.44,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-360704
+2025-02-18,Healthcare,Expense,59.16,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-552041
+2025-08-23,Investments,Income,278.71,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-142615
+2025-01-20,Transport,Expense,67.23,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-637533
+2025-06-22,Salary,Income,2585.49,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-520205
+2026-01-05,Tech,Expense,264.63,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-222080
+2025-06-05,Tech,Expense,250.08,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-827981
+2025-10-21,Transport,Expense,194.44,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-883149
+2025-05-22,Utilities,Expense,205.61,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-290065
+2025-01-03,Tech,Expense,168.8,Windsor,Ontario,Canada,42.3149,-83.0364,Cash,TXN-789137
+2025-08-25,Tech,Expense,243.64,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-332074
+2025-04-24,Transport,Expense,34.85,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-716472
+2025-10-05,Transport,Expense,161.73,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-459609
+2026-02-26,Transport,Expense,183.31,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-320869
+2025-12-11,Utilities,Expense,162.12,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-792792
+2025-11-20,Salary,Income,2497.31,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-317633
+2025-07-09,Healthcare,Expense,128.57,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-807265
+2025-11-16,Utilities,Expense,238.13,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-692332
+2026-01-20,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-346120
+2025-03-09,Healthcare,Expense,157.59,Windsor,Ontario,Canada,42.3149,-83.0364,Credit Card,TXN-514973
+2025-10-20,Groceries,Expense,122.85,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-676790
+2025-08-03,Dining,Expense,361.18,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-907927
+2025-12-07,Groceries,Expense,355.06,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-336033
+2026-01-23,Gift,Income,190.93,Kitchener,Ontario,Canada,43.4516,-80.4925,Debit Card,TXN-286255
+2025-09-30,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,Cash,TXN-788065
+2025-07-16,Groceries,Expense,236.26,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-530224
+2025-11-13,Rent,Expense,1200.0,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-739323
+2025-11-03,Groceries,Expense,232.53,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-440808
+2025-10-19,Utilities,Expense,253.94,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-123823
+2025-10-10,Cybersecurity,Expense,209.42,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-580005
+2025-03-31,Dining,Expense,194.15,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-239093
+2025-04-16,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-581498
+2025-05-04,Entertainment,Expense,320.73,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-942726
+2026-03-23,Transport,Expense,368.86,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-584664
+2025-01-04,Groceries,Expense,301.96,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-504032
+2025-05-14,Cybersecurity,Expense,354.51,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-850565
+2026-01-01,Healthcare,Expense,19.25,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-407194
+2025-07-06,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-549407
+2025-03-16,Groceries,Expense,340.36,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-857065
+2025-12-03,Cybersecurity,Expense,142.54,Toronto,Ontario,Canada,43.6532,-79.3832,Cash,TXN-320290
+2025-11-25,Transport,Expense,280.55,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-889056
+2025-06-25,Tech,Expense,125.16,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-925621
+2025-10-18,Tech,Expense,117.37,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-255214
+2025-04-24,Rent,Expense,1200.0,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-848476
+2025-10-18,Utilities,Expense,257.22,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-805983
+2025-03-17,Utilities,Expense,246.91,Kitchener,Ontario,Canada,43.4516,-80.4925,E-Transfer,TXN-767693
+2025-10-26,Dining,Expense,128.15,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-372022
+2026-01-17,Healthcare,Expense,349.39,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-600143
+2025-06-26,Utilities,Expense,261.1,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-648759
+2025-11-28,Entertainment,Expense,75.96,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-283906
+2025-01-08,Cybersecurity,Expense,270.81,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-335746
+2025-03-18,Dining,Expense,118.54,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-473818
+2026-03-07,Rent,Expense,1200.0,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-877391
+2025-07-24,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,E-Transfer,TXN-632064
+2025-10-01,Healthcare,Expense,340.18,Ottawa,Ontario,Canada,45.4215,-75.6972,Credit Card,TXN-936677
+2025-05-07,Healthcare,Expense,105.43,Toronto,Ontario,Canada,43.6532,-79.3832,Debit Card,TXN-339431
+2025-04-01,Entertainment,Expense,25.69,Ottawa,Ontario,Canada,45.4215,-75.6972,E-Transfer,TXN-678788
+2026-01-11,Dining,Expense,333.97,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-647941
+2025-04-27,Dining,Expense,105.14,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-586823
+2025-06-13,Rent,Expense,1200.0,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-601532
+2025-09-01,Groceries,Expense,86.98,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-727356
+2025-10-25,Rent,Expense,1200.0,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-854955
+2025-10-29,Freelance,Income,324.25,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-100519
+2025-11-04,Cybersecurity,Expense,115.59,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-631935
+2025-11-27,Tech,Expense,126.86,Ottawa,Ontario,Canada,45.4215,-75.6972,Debit Card,TXN-457713
+2025-09-15,Healthcare,Expense,130.43,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-893365
+2025-01-04,Gift,Income,134.49,Ottawa,Ontario,Canada,45.4215,-75.6972,Cash,TXN-619871
+2026-01-25,Groceries,Expense,178.49,Detroit,Michigan,United States,42.3314,-83.0458,Credit Card,TXN-564727
+2026-02-26,Healthcare,Expense,81.24,Windsor,Ontario,Canada,42.3149,-83.0364,Debit Card,TXN-323573
+2025-06-13,Tech,Expense,308.9,Kitchener,Ontario,Canada,43.4516,-80.4925,Credit Card,TXN-818008
+2025-10-20,Dining,Expense,272.04,Detroit,Michigan,United States,42.3314,-83.0458,Debit Card,TXN-301225
+2026-03-13,Utilities,Expense,71.6,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-641554
+2026-02-04,Gift,Income,293.32,Toronto,Ontario,Canada,43.6532,-79.3832,E-Transfer,TXN-594908
+2025-07-09,Investments,Income,66.54,Detroit,Michigan,United States,42.3314,-83.0458,E-Transfer,TXN-969512
+2025-06-07,Entertainment,Expense,175.87,Kitchener,Ontario,Canada,43.4516,-80.4925,Cash,TXN-105948
