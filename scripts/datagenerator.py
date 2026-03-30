@@ -14,7 +14,7 @@ def generate_data(num_rows=2000):
     2. Finance_Budget_v2.csv (Monthly targets)
     """
     # Set your desired output folder here
-    output_dir = r'E:\Work & studies\Power BI projects\xlsx&csv'
+    output_dir = r'Power BI projects\xlsx&csv'
     
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
