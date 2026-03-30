@@ -2,7 +2,6 @@
 **Building a Scalable Financial Command Center with Python & Power BI**
 
 ![Dashboard Preview](images/dashboard_v2.png) 
-*Note: Replace this with your own high-res screenshot or a GIF of the dashboard in action!*
 
 ---
 
